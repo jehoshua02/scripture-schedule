@@ -39,27 +39,27 @@ var data = {
     },
     {
       name: 'Helaman',
-      chapters: [  ]
+      chapters: [ 1 ]
     },
     {
       name: '3 Nephi',
-      chapters: [  ]
+      chapters: [ 1 ]
     },
     {
       name: '4 Nephi',
-      chapters: [  ]
+      chapters: [ 1 ]
     },
     {
       name: 'Mormon',
-      chapters: [  ]
+      chapters: [ 1 ]
     },
     {
       name: 'Ether',
-      chapters: [  ]
+      chapters: [ 1 ]
     },
     {
       name: 'Moroni',
-      chapters: [  ]
+      chapters: [ 1 ]
     }
   ]
 };
