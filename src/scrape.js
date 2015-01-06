@@ -1,8 +1,18 @@
-var request = require('request');
-var scraper = require('./scriptures/scrape/scrapeStream');
-var books = require('./scriptures/scrape/books');
-var log = require('./scriptures/scrape/logStream');
+var request = require('sync-request');
+var scraper = require('./scriptures/Scraper');
 
-request('https://www.lds.org/scriptures/bofm')
-  .pipe(scraper({scrape: books}))
-  .pipe(log());
+
+// scraper.scrape('ot');
+// console.log('ot');
+
+// scraper.scrape('nt');
+// console.log('nt');
+
+// scraper.scrape('bom');
+// console.log('bom');
+
+// scraper.scrape('dc');
+// console.log('dc');
+
+// scraper.scrape('pgp');
+// console.log('pgp');

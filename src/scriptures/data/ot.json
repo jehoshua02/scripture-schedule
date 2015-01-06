@@ -1,0 +1,4881 @@
+[
+  {
+    "name": "Genesis",
+    "url": "https://www.lds.org/scriptures/ot/gen?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/gen/1?lang=eng",
+        "verses": 31
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/gen/2?lang=eng",
+        "verses": 25
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/gen/3?lang=eng",
+        "verses": 24
+      },
+      {
+        "name": "4",
+        "url": "https://www.lds.org/scriptures/ot/gen/4?lang=eng",
+        "verses": 26
+      },
+      {
+        "name": "5",
+        "url": "https://www.lds.org/scriptures/ot/gen/5?lang=eng",
+        "verses": 32
+      },
+      {
+        "name": "6",
+        "url": "https://www.lds.org/scriptures/ot/gen/6?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "7",
+        "url": "https://www.lds.org/scriptures/ot/gen/7?lang=eng",
+        "verses": 24
+      },
+      {
+        "name": "8",
+        "url": "https://www.lds.org/scriptures/ot/gen/8?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "9",
+        "url": "https://www.lds.org/scriptures/ot/gen/9?lang=eng",
+        "verses": 29
+      },
+      {
+        "name": "10",
+        "url": "https://www.lds.org/scriptures/ot/gen/10?lang=eng",
+        "verses": 32
+      },
+      {
+        "name": "11",
+        "url": "https://www.lds.org/scriptures/ot/gen/11?lang=eng",
+        "verses": 32
+      },
+      {
+        "name": "12",
+        "url": "https://www.lds.org/scriptures/ot/gen/12?lang=eng",
+        "verses": 20
+      },
+      {
+        "name": "13",
+        "url": "https://www.lds.org/scriptures/ot/gen/13?lang=eng",
+        "verses": 18
+      },
+      {
+        "name": "14",
+        "url": "https://www.lds.org/scriptures/ot/gen/14?lang=eng",
+        "verses": 24
+      },
+      {
+        "name": "15",
+        "url": "https://www.lds.org/scriptures/ot/gen/15?lang=eng",
+        "verses": 21
+      },
+      {
+        "name": "16",
+        "url": "https://www.lds.org/scriptures/ot/gen/16?lang=eng",
+        "verses": 16
+      },
+      {
+        "name": "17",
+        "url": "https://www.lds.org/scriptures/ot/gen/17?lang=eng",
+        "verses": 27
+      },
+      {
+        "name": "18",
+        "url": "https://www.lds.org/scriptures/ot/gen/18?lang=eng",
+        "verses": 33
+      },
+      {
+        "name": "19",
+        "url": "https://www.lds.org/scriptures/ot/gen/19?lang=eng",
+        "verses": 38
+      },
+      {
+        "name": "20",
+        "url": "https://www.lds.org/scriptures/ot/gen/20?lang=eng",
+        "verses": 18
+      },
+      {
+        "name": "21",
+        "url": "https://www.lds.org/scriptures/ot/gen/21?lang=eng",
+        "verses": 34
+      },
+      {
+        "name": "22",
+        "url": "https://www.lds.org/scriptures/ot/gen/22?lang=eng",
+        "verses": 24
+      },
+      {
+        "name": "23",
+        "url": "https://www.lds.org/scriptures/ot/gen/23?lang=eng",
+        "verses": 20
+      },
+      {
+        "name": "24",
+        "url": "https://www.lds.org/scriptures/ot/gen/24?lang=eng",
+        "verses": 67
+      },
+      {
+        "name": "25",
+        "url": "https://www.lds.org/scriptures/ot/gen/25?lang=eng",
+        "verses": 34
+      },
+      {
+        "name": "26",
+        "url": "https://www.lds.org/scriptures/ot/gen/26?lang=eng",
+        "verses": 35
+      },
+      {
+        "name": "27",
+        "url": "https://www.lds.org/scriptures/ot/gen/27?lang=eng",
+        "verses": 46
+      },
+      {
+        "name": "28",
+        "url": "https://www.lds.org/scriptures/ot/gen/28?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "29",
+        "url": "https://www.lds.org/scriptures/ot/gen/29?lang=eng",
+        "verses": 35
+      },
+      {
+        "name": "30",
+        "url": "https://www.lds.org/scriptures/ot/gen/30?lang=eng",
+        "verses": 43
+      },
+      {
+        "name": "31",
+        "url": "https://www.lds.org/scriptures/ot/gen/31?lang=eng",
+        "verses": 55
+      },
+      {
+        "name": "32",
+        "url": "https://www.lds.org/scriptures/ot/gen/32?lang=eng",
+        "verses": 32
+      },
+      {
+        "name": "33",
+        "url": "https://www.lds.org/scriptures/ot/gen/33?lang=eng",
+        "verses": 20
+      },
+      {
+        "name": "34",
+        "url": "https://www.lds.org/scriptures/ot/gen/34?lang=eng",
+        "verses": 31
+      },
+      {
+        "name": "35",
+        "url": "https://www.lds.org/scriptures/ot/gen/35?lang=eng",
+        "verses": 29
+      },
+      {
+        "name": "36",
+        "url": "https://www.lds.org/scriptures/ot/gen/36?lang=eng",
+        "verses": 43
+      },
+      {
+        "name": "37",
+        "url": "https://www.lds.org/scriptures/ot/gen/37?lang=eng",
+        "verses": 36
+      },
+      {
+        "name": "38",
+        "url": "https://www.lds.org/scriptures/ot/gen/38?lang=eng",
+        "verses": 30
+      },
+      {
+        "name": "39",
+        "url": "https://www.lds.org/scriptures/ot/gen/39?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "40",
+        "url": "https://www.lds.org/scriptures/ot/gen/40?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "41",
+        "url": "https://www.lds.org/scriptures/ot/gen/41?lang=eng",
+        "verses": 57
+      },
+      {
+        "name": "42",
+        "url": "https://www.lds.org/scriptures/ot/gen/42?lang=eng",
+        "verses": 38
+      },
+      {
+        "name": "43",
+        "url": "https://www.lds.org/scriptures/ot/gen/43?lang=eng",
+        "verses": 34
+      },
+      {
+        "name": "44",
+        "url": "https://www.lds.org/scriptures/ot/gen/44?lang=eng",
+        "verses": 34
+      },
+      {
+        "name": "45",
+        "url": "https://www.lds.org/scriptures/ot/gen/45?lang=eng",
+        "verses": 28
+      },
+      {
+        "name": "46",
+        "url": "https://www.lds.org/scriptures/ot/gen/46?lang=eng",
+        "verses": 34
+      },
+      {
+        "name": "47",
+        "url": "https://www.lds.org/scriptures/ot/gen/47?lang=eng",
+        "verses": 31
+      },
+      {
+        "name": "48",
+        "url": "https://www.lds.org/scriptures/ot/gen/48?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "49",
+        "url": "https://www.lds.org/scriptures/ot/gen/49?lang=eng",
+        "verses": 33
+      },
+      {
+        "name": "50",
+        "url": "https://www.lds.org/scriptures/ot/gen/50?lang=eng",
+        "verses": 26
+      }
+    ]
+  },
+  {
+    "name": "Exodus",
+    "url": "https://www.lds.org/scriptures/ot/ex?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/ex/1?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/ex/2?lang=eng",
+        "verses": 25
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/ex/3?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "4",
+        "url": "https://www.lds.org/scriptures/ot/ex/4?lang=eng",
+        "verses": 31
+      },
+      {
+        "name": "5",
+        "url": "https://www.lds.org/scriptures/ot/ex/5?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "6",
+        "url": "https://www.lds.org/scriptures/ot/ex/6?lang=eng",
+        "verses": 30
+      },
+      {
+        "name": "7",
+        "url": "https://www.lds.org/scriptures/ot/ex/7?lang=eng",
+        "verses": 25
+      },
+      {
+        "name": "8",
+        "url": "https://www.lds.org/scriptures/ot/ex/8?lang=eng",
+        "verses": 32
+      },
+      {
+        "name": "9",
+        "url": "https://www.lds.org/scriptures/ot/ex/9?lang=eng",
+        "verses": 35
+      },
+      {
+        "name": "10",
+        "url": "https://www.lds.org/scriptures/ot/ex/10?lang=eng",
+        "verses": 29
+      },
+      {
+        "name": "11",
+        "url": "https://www.lds.org/scriptures/ot/ex/11?lang=eng",
+        "verses": 10
+      },
+      {
+        "name": "12",
+        "url": "https://www.lds.org/scriptures/ot/ex/12?lang=eng",
+        "verses": 51
+      },
+      {
+        "name": "13",
+        "url": "https://www.lds.org/scriptures/ot/ex/13?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "14",
+        "url": "https://www.lds.org/scriptures/ot/ex/14?lang=eng",
+        "verses": 31
+      },
+      {
+        "name": "15",
+        "url": "https://www.lds.org/scriptures/ot/ex/15?lang=eng",
+        "verses": 27
+      },
+      {
+        "name": "16",
+        "url": "https://www.lds.org/scriptures/ot/ex/16?lang=eng",
+        "verses": 36
+      },
+      {
+        "name": "17",
+        "url": "https://www.lds.org/scriptures/ot/ex/17?lang=eng",
+        "verses": 16
+      },
+      {
+        "name": "18",
+        "url": "https://www.lds.org/scriptures/ot/ex/18?lang=eng",
+        "verses": 27
+      },
+      {
+        "name": "19",
+        "url": "https://www.lds.org/scriptures/ot/ex/19?lang=eng",
+        "verses": 25
+      },
+      {
+        "name": "20",
+        "url": "https://www.lds.org/scriptures/ot/ex/20?lang=eng",
+        "verses": 26
+      },
+      {
+        "name": "21",
+        "url": "https://www.lds.org/scriptures/ot/ex/21?lang=eng",
+        "verses": 36
+      },
+      {
+        "name": "22",
+        "url": "https://www.lds.org/scriptures/ot/ex/22?lang=eng",
+        "verses": 31
+      },
+      {
+        "name": "23",
+        "url": "https://www.lds.org/scriptures/ot/ex/23?lang=eng",
+        "verses": 33
+      },
+      {
+        "name": "24",
+        "url": "https://www.lds.org/scriptures/ot/ex/24?lang=eng",
+        "verses": 18
+      },
+      {
+        "name": "25",
+        "url": "https://www.lds.org/scriptures/ot/ex/25?lang=eng",
+        "verses": 40
+      },
+      {
+        "name": "26",
+        "url": "https://www.lds.org/scriptures/ot/ex/26?lang=eng",
+        "verses": 37
+      },
+      {
+        "name": "27",
+        "url": "https://www.lds.org/scriptures/ot/ex/27?lang=eng",
+        "verses": 21
+      },
+      {
+        "name": "28",
+        "url": "https://www.lds.org/scriptures/ot/ex/28?lang=eng",
+        "verses": 43
+      },
+      {
+        "name": "29",
+        "url": "https://www.lds.org/scriptures/ot/ex/29?lang=eng",
+        "verses": 46
+      },
+      {
+        "name": "30",
+        "url": "https://www.lds.org/scriptures/ot/ex/30?lang=eng",
+        "verses": 38
+      },
+      {
+        "name": "31",
+        "url": "https://www.lds.org/scriptures/ot/ex/31?lang=eng",
+        "verses": 18
+      },
+      {
+        "name": "32",
+        "url": "https://www.lds.org/scriptures/ot/ex/32?lang=eng",
+        "verses": 35
+      },
+      {
+        "name": "33",
+        "url": "https://www.lds.org/scriptures/ot/ex/33?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "34",
+        "url": "https://www.lds.org/scriptures/ot/ex/34?lang=eng",
+        "verses": 35
+      },
+      {
+        "name": "35",
+        "url": "https://www.lds.org/scriptures/ot/ex/35?lang=eng",
+        "verses": 35
+      },
+      {
+        "name": "36",
+        "url": "https://www.lds.org/scriptures/ot/ex/36?lang=eng",
+        "verses": 38
+      },
+      {
+        "name": "37",
+        "url": "https://www.lds.org/scriptures/ot/ex/37?lang=eng",
+        "verses": 29
+      },
+      {
+        "name": "38",
+        "url": "https://www.lds.org/scriptures/ot/ex/38?lang=eng",
+        "verses": 31
+      },
+      {
+        "name": "39",
+        "url": "https://www.lds.org/scriptures/ot/ex/39?lang=eng",
+        "verses": 43
+      },
+      {
+        "name": "40",
+        "url": "https://www.lds.org/scriptures/ot/ex/40?lang=eng",
+        "verses": 38
+      }
+    ]
+  },
+  {
+    "name": "Leviticus",
+    "url": "https://www.lds.org/scriptures/ot/lev?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/lev/1?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/lev/2?lang=eng",
+        "verses": 16
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/lev/3?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "4",
+        "url": "https://www.lds.org/scriptures/ot/lev/4?lang=eng",
+        "verses": 35
+      },
+      {
+        "name": "5",
+        "url": "https://www.lds.org/scriptures/ot/lev/5?lang=eng",
+        "verses": 19
+      },
+      {
+        "name": "6",
+        "url": "https://www.lds.org/scriptures/ot/lev/6?lang=eng",
+        "verses": 30
+      },
+      {
+        "name": "7",
+        "url": "https://www.lds.org/scriptures/ot/lev/7?lang=eng",
+        "verses": 38
+      },
+      {
+        "name": "8",
+        "url": "https://www.lds.org/scriptures/ot/lev/8?lang=eng",
+        "verses": 36
+      },
+      {
+        "name": "9",
+        "url": "https://www.lds.org/scriptures/ot/lev/9?lang=eng",
+        "verses": 24
+      },
+      {
+        "name": "10",
+        "url": "https://www.lds.org/scriptures/ot/lev/10?lang=eng",
+        "verses": 20
+      },
+      {
+        "name": "11",
+        "url": "https://www.lds.org/scriptures/ot/lev/11?lang=eng",
+        "verses": 47
+      },
+      {
+        "name": "12",
+        "url": "https://www.lds.org/scriptures/ot/lev/12?lang=eng",
+        "verses": 8
+      },
+      {
+        "name": "13",
+        "url": "https://www.lds.org/scriptures/ot/lev/13?lang=eng",
+        "verses": 59
+      },
+      {
+        "name": "14",
+        "url": "https://www.lds.org/scriptures/ot/lev/14?lang=eng",
+        "verses": 57
+      },
+      {
+        "name": "15",
+        "url": "https://www.lds.org/scriptures/ot/lev/15?lang=eng",
+        "verses": 33
+      },
+      {
+        "name": "16",
+        "url": "https://www.lds.org/scriptures/ot/lev/16?lang=eng",
+        "verses": 34
+      },
+      {
+        "name": "17",
+        "url": "https://www.lds.org/scriptures/ot/lev/17?lang=eng",
+        "verses": 16
+      },
+      {
+        "name": "18",
+        "url": "https://www.lds.org/scriptures/ot/lev/18?lang=eng",
+        "verses": 30
+      },
+      {
+        "name": "19",
+        "url": "https://www.lds.org/scriptures/ot/lev/19?lang=eng",
+        "verses": 37
+      },
+      {
+        "name": "20",
+        "url": "https://www.lds.org/scriptures/ot/lev/20?lang=eng",
+        "verses": 27
+      },
+      {
+        "name": "21",
+        "url": "https://www.lds.org/scriptures/ot/lev/21?lang=eng",
+        "verses": 24
+      },
+      {
+        "name": "22",
+        "url": "https://www.lds.org/scriptures/ot/lev/22?lang=eng",
+        "verses": 33
+      },
+      {
+        "name": "23",
+        "url": "https://www.lds.org/scriptures/ot/lev/23?lang=eng",
+        "verses": 44
+      },
+      {
+        "name": "24",
+        "url": "https://www.lds.org/scriptures/ot/lev/24?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "25",
+        "url": "https://www.lds.org/scriptures/ot/lev/25?lang=eng",
+        "verses": 55
+      },
+      {
+        "name": "26",
+        "url": "https://www.lds.org/scriptures/ot/lev/26?lang=eng",
+        "verses": 46
+      },
+      {
+        "name": "27",
+        "url": "https://www.lds.org/scriptures/ot/lev/27?lang=eng",
+        "verses": 34
+      }
+    ]
+  },
+  {
+    "name": "Numbers",
+    "url": "https://www.lds.org/scriptures/ot/num?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/num/1?lang=eng",
+        "verses": 54
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/num/2?lang=eng",
+        "verses": 34
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/num/3?lang=eng",
+        "verses": 51
+      },
+      {
+        "name": "4",
+        "url": "https://www.lds.org/scriptures/ot/num/4?lang=eng",
+        "verses": 49
+      },
+      {
+        "name": "5",
+        "url": "https://www.lds.org/scriptures/ot/num/5?lang=eng",
+        "verses": 31
+      },
+      {
+        "name": "6",
+        "url": "https://www.lds.org/scriptures/ot/num/6?lang=eng",
+        "verses": 27
+      },
+      {
+        "name": "7",
+        "url": "https://www.lds.org/scriptures/ot/num/7?lang=eng",
+        "verses": 89
+      },
+      {
+        "name": "8",
+        "url": "https://www.lds.org/scriptures/ot/num/8?lang=eng",
+        "verses": 26
+      },
+      {
+        "name": "9",
+        "url": "https://www.lds.org/scriptures/ot/num/9?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "10",
+        "url": "https://www.lds.org/scriptures/ot/num/10?lang=eng",
+        "verses": 36
+      },
+      {
+        "name": "11",
+        "url": "https://www.lds.org/scriptures/ot/num/11?lang=eng",
+        "verses": 35
+      },
+      {
+        "name": "12",
+        "url": "https://www.lds.org/scriptures/ot/num/12?lang=eng",
+        "verses": 16
+      },
+      {
+        "name": "13",
+        "url": "https://www.lds.org/scriptures/ot/num/13?lang=eng",
+        "verses": 33
+      },
+      {
+        "name": "14",
+        "url": "https://www.lds.org/scriptures/ot/num/14?lang=eng",
+        "verses": 45
+      },
+      {
+        "name": "15",
+        "url": "https://www.lds.org/scriptures/ot/num/15?lang=eng",
+        "verses": 41
+      },
+      {
+        "name": "16",
+        "url": "https://www.lds.org/scriptures/ot/num/16?lang=eng",
+        "verses": 50
+      },
+      {
+        "name": "17",
+        "url": "https://www.lds.org/scriptures/ot/num/17?lang=eng",
+        "verses": 13
+      },
+      {
+        "name": "18",
+        "url": "https://www.lds.org/scriptures/ot/num/18?lang=eng",
+        "verses": 32
+      },
+      {
+        "name": "19",
+        "url": "https://www.lds.org/scriptures/ot/num/19?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "20",
+        "url": "https://www.lds.org/scriptures/ot/num/20?lang=eng",
+        "verses": 29
+      },
+      {
+        "name": "21",
+        "url": "https://www.lds.org/scriptures/ot/num/21?lang=eng",
+        "verses": 35
+      },
+      {
+        "name": "22",
+        "url": "https://www.lds.org/scriptures/ot/num/22?lang=eng",
+        "verses": 41
+      },
+      {
+        "name": "23",
+        "url": "https://www.lds.org/scriptures/ot/num/23?lang=eng",
+        "verses": 30
+      },
+      {
+        "name": "24",
+        "url": "https://www.lds.org/scriptures/ot/num/24?lang=eng",
+        "verses": 25
+      },
+      {
+        "name": "25",
+        "url": "https://www.lds.org/scriptures/ot/num/25?lang=eng",
+        "verses": 18
+      },
+      {
+        "name": "26",
+        "url": "https://www.lds.org/scriptures/ot/num/26?lang=eng",
+        "verses": 65
+      },
+      {
+        "name": "27",
+        "url": "https://www.lds.org/scriptures/ot/num/27?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "28",
+        "url": "https://www.lds.org/scriptures/ot/num/28?lang=eng",
+        "verses": 31
+      },
+      {
+        "name": "29",
+        "url": "https://www.lds.org/scriptures/ot/num/29?lang=eng",
+        "verses": 40
+      },
+      {
+        "name": "30",
+        "url": "https://www.lds.org/scriptures/ot/num/30?lang=eng",
+        "verses": 16
+      },
+      {
+        "name": "31",
+        "url": "https://www.lds.org/scriptures/ot/num/31?lang=eng",
+        "verses": 54
+      },
+      {
+        "name": "32",
+        "url": "https://www.lds.org/scriptures/ot/num/32?lang=eng",
+        "verses": 42
+      },
+      {
+        "name": "33",
+        "url": "https://www.lds.org/scriptures/ot/num/33?lang=eng",
+        "verses": 56
+      },
+      {
+        "name": "34",
+        "url": "https://www.lds.org/scriptures/ot/num/34?lang=eng",
+        "verses": 29
+      },
+      {
+        "name": "35",
+        "url": "https://www.lds.org/scriptures/ot/num/35?lang=eng",
+        "verses": 34
+      },
+      {
+        "name": "36",
+        "url": "https://www.lds.org/scriptures/ot/num/36?lang=eng",
+        "verses": 13
+      }
+    ]
+  },
+  {
+    "name": "Deuteronomy",
+    "url": "https://www.lds.org/scriptures/ot/deut?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/deut/1?lang=eng",
+        "verses": 46
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/deut/2?lang=eng",
+        "verses": 37
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/deut/3?lang=eng",
+        "verses": 29
+      },
+      {
+        "name": "4",
+        "url": "https://www.lds.org/scriptures/ot/deut/4?lang=eng",
+        "verses": 49
+      },
+      {
+        "name": "5",
+        "url": "https://www.lds.org/scriptures/ot/deut/5?lang=eng",
+        "verses": 33
+      },
+      {
+        "name": "6",
+        "url": "https://www.lds.org/scriptures/ot/deut/6?lang=eng",
+        "verses": 25
+      },
+      {
+        "name": "7",
+        "url": "https://www.lds.org/scriptures/ot/deut/7?lang=eng",
+        "verses": 26
+      },
+      {
+        "name": "8",
+        "url": "https://www.lds.org/scriptures/ot/deut/8?lang=eng",
+        "verses": 20
+      },
+      {
+        "name": "9",
+        "url": "https://www.lds.org/scriptures/ot/deut/9?lang=eng",
+        "verses": 29
+      },
+      {
+        "name": "10",
+        "url": "https://www.lds.org/scriptures/ot/deut/10?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "11",
+        "url": "https://www.lds.org/scriptures/ot/deut/11?lang=eng",
+        "verses": 32
+      },
+      {
+        "name": "12",
+        "url": "https://www.lds.org/scriptures/ot/deut/12?lang=eng",
+        "verses": 32
+      },
+      {
+        "name": "13",
+        "url": "https://www.lds.org/scriptures/ot/deut/13?lang=eng",
+        "verses": 18
+      },
+      {
+        "name": "14",
+        "url": "https://www.lds.org/scriptures/ot/deut/14?lang=eng",
+        "verses": 29
+      },
+      {
+        "name": "15",
+        "url": "https://www.lds.org/scriptures/ot/deut/15?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "16",
+        "url": "https://www.lds.org/scriptures/ot/deut/16?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "17",
+        "url": "https://www.lds.org/scriptures/ot/deut/17?lang=eng",
+        "verses": 20
+      },
+      {
+        "name": "18",
+        "url": "https://www.lds.org/scriptures/ot/deut/18?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "19",
+        "url": "https://www.lds.org/scriptures/ot/deut/19?lang=eng",
+        "verses": 21
+      },
+      {
+        "name": "20",
+        "url": "https://www.lds.org/scriptures/ot/deut/20?lang=eng",
+        "verses": 20
+      },
+      {
+        "name": "21",
+        "url": "https://www.lds.org/scriptures/ot/deut/21?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "22",
+        "url": "https://www.lds.org/scriptures/ot/deut/22?lang=eng",
+        "verses": 30
+      },
+      {
+        "name": "23",
+        "url": "https://www.lds.org/scriptures/ot/deut/23?lang=eng",
+        "verses": 25
+      },
+      {
+        "name": "24",
+        "url": "https://www.lds.org/scriptures/ot/deut/24?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "25",
+        "url": "https://www.lds.org/scriptures/ot/deut/25?lang=eng",
+        "verses": 19
+      },
+      {
+        "name": "26",
+        "url": "https://www.lds.org/scriptures/ot/deut/26?lang=eng",
+        "verses": 19
+      },
+      {
+        "name": "27",
+        "url": "https://www.lds.org/scriptures/ot/deut/27?lang=eng",
+        "verses": 26
+      },
+      {
+        "name": "28",
+        "url": "https://www.lds.org/scriptures/ot/deut/28?lang=eng",
+        "verses": 68
+      },
+      {
+        "name": "29",
+        "url": "https://www.lds.org/scriptures/ot/deut/29?lang=eng",
+        "verses": 29
+      },
+      {
+        "name": "30",
+        "url": "https://www.lds.org/scriptures/ot/deut/30?lang=eng",
+        "verses": 20
+      },
+      {
+        "name": "31",
+        "url": "https://www.lds.org/scriptures/ot/deut/31?lang=eng",
+        "verses": 30
+      },
+      {
+        "name": "32",
+        "url": "https://www.lds.org/scriptures/ot/deut/32?lang=eng",
+        "verses": 52
+      },
+      {
+        "name": "33",
+        "url": "https://www.lds.org/scriptures/ot/deut/33?lang=eng",
+        "verses": 29
+      },
+      {
+        "name": "34",
+        "url": "https://www.lds.org/scriptures/ot/deut/34?lang=eng",
+        "verses": 12
+      }
+    ]
+  },
+  {
+    "name": "Joshua",
+    "url": "https://www.lds.org/scriptures/ot/josh?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/josh/1?lang=eng",
+        "verses": 18
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/josh/2?lang=eng",
+        "verses": 24
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/josh/3?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "4",
+        "url": "https://www.lds.org/scriptures/ot/josh/4?lang=eng",
+        "verses": 24
+      },
+      {
+        "name": "5",
+        "url": "https://www.lds.org/scriptures/ot/josh/5?lang=eng",
+        "verses": 15
+      },
+      {
+        "name": "6",
+        "url": "https://www.lds.org/scriptures/ot/josh/6?lang=eng",
+        "verses": 27
+      },
+      {
+        "name": "7",
+        "url": "https://www.lds.org/scriptures/ot/josh/7?lang=eng",
+        "verses": 26
+      },
+      {
+        "name": "8",
+        "url": "https://www.lds.org/scriptures/ot/josh/8?lang=eng",
+        "verses": 35
+      },
+      {
+        "name": "9",
+        "url": "https://www.lds.org/scriptures/ot/josh/9?lang=eng",
+        "verses": 27
+      },
+      {
+        "name": "10",
+        "url": "https://www.lds.org/scriptures/ot/josh/10?lang=eng",
+        "verses": 43
+      },
+      {
+        "name": "11",
+        "url": "https://www.lds.org/scriptures/ot/josh/11?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "12",
+        "url": "https://www.lds.org/scriptures/ot/josh/12?lang=eng",
+        "verses": 24
+      },
+      {
+        "name": "13",
+        "url": "https://www.lds.org/scriptures/ot/josh/13?lang=eng",
+        "verses": 33
+      },
+      {
+        "name": "14",
+        "url": "https://www.lds.org/scriptures/ot/josh/14?lang=eng",
+        "verses": 15
+      },
+      {
+        "name": "15",
+        "url": "https://www.lds.org/scriptures/ot/josh/15?lang=eng",
+        "verses": 63
+      },
+      {
+        "name": "16",
+        "url": "https://www.lds.org/scriptures/ot/josh/16?lang=eng",
+        "verses": 10
+      },
+      {
+        "name": "17",
+        "url": "https://www.lds.org/scriptures/ot/josh/17?lang=eng",
+        "verses": 18
+      },
+      {
+        "name": "18",
+        "url": "https://www.lds.org/scriptures/ot/josh/18?lang=eng",
+        "verses": 28
+      },
+      {
+        "name": "19",
+        "url": "https://www.lds.org/scriptures/ot/josh/19?lang=eng",
+        "verses": 51
+      },
+      {
+        "name": "20",
+        "url": "https://www.lds.org/scriptures/ot/josh/20?lang=eng",
+        "verses": 9
+      },
+      {
+        "name": "21",
+        "url": "https://www.lds.org/scriptures/ot/josh/21?lang=eng",
+        "verses": 45
+      },
+      {
+        "name": "22",
+        "url": "https://www.lds.org/scriptures/ot/josh/22?lang=eng",
+        "verses": 34
+      },
+      {
+        "name": "23",
+        "url": "https://www.lds.org/scriptures/ot/josh/23?lang=eng",
+        "verses": 16
+      },
+      {
+        "name": "24",
+        "url": "https://www.lds.org/scriptures/ot/josh/24?lang=eng",
+        "verses": 33
+      }
+    ]
+  },
+  {
+    "name": "Judges",
+    "url": "https://www.lds.org/scriptures/ot/judg?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/judg/1?lang=eng",
+        "verses": 36
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/judg/2?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/judg/3?lang=eng",
+        "verses": 31
+      },
+      {
+        "name": "4",
+        "url": "https://www.lds.org/scriptures/ot/judg/4?lang=eng",
+        "verses": 24
+      },
+      {
+        "name": "5",
+        "url": "https://www.lds.org/scriptures/ot/judg/5?lang=eng",
+        "verses": 31
+      },
+      {
+        "name": "6",
+        "url": "https://www.lds.org/scriptures/ot/judg/6?lang=eng",
+        "verses": 40
+      },
+      {
+        "name": "7",
+        "url": "https://www.lds.org/scriptures/ot/judg/7?lang=eng",
+        "verses": 25
+      },
+      {
+        "name": "8",
+        "url": "https://www.lds.org/scriptures/ot/judg/8?lang=eng",
+        "verses": 35
+      },
+      {
+        "name": "9",
+        "url": "https://www.lds.org/scriptures/ot/judg/9?lang=eng",
+        "verses": 57
+      },
+      {
+        "name": "10",
+        "url": "https://www.lds.org/scriptures/ot/judg/10?lang=eng",
+        "verses": 18
+      },
+      {
+        "name": "11",
+        "url": "https://www.lds.org/scriptures/ot/judg/11?lang=eng",
+        "verses": 40
+      },
+      {
+        "name": "12",
+        "url": "https://www.lds.org/scriptures/ot/judg/12?lang=eng",
+        "verses": 15
+      },
+      {
+        "name": "13",
+        "url": "https://www.lds.org/scriptures/ot/judg/13?lang=eng",
+        "verses": 25
+      },
+      {
+        "name": "14",
+        "url": "https://www.lds.org/scriptures/ot/judg/14?lang=eng",
+        "verses": 20
+      },
+      {
+        "name": "15",
+        "url": "https://www.lds.org/scriptures/ot/judg/15?lang=eng",
+        "verses": 20
+      },
+      {
+        "name": "16",
+        "url": "https://www.lds.org/scriptures/ot/judg/16?lang=eng",
+        "verses": 31
+      },
+      {
+        "name": "17",
+        "url": "https://www.lds.org/scriptures/ot/judg/17?lang=eng",
+        "verses": 13
+      },
+      {
+        "name": "18",
+        "url": "https://www.lds.org/scriptures/ot/judg/18?lang=eng",
+        "verses": 31
+      },
+      {
+        "name": "19",
+        "url": "https://www.lds.org/scriptures/ot/judg/19?lang=eng",
+        "verses": 30
+      },
+      {
+        "name": "20",
+        "url": "https://www.lds.org/scriptures/ot/judg/20?lang=eng",
+        "verses": 48
+      },
+      {
+        "name": "21",
+        "url": "https://www.lds.org/scriptures/ot/judg/21?lang=eng",
+        "verses": 25
+      }
+    ]
+  },
+  {
+    "name": "Ruth",
+    "url": "https://www.lds.org/scriptures/ot/ruth?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/ruth/1?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/ruth/2?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/ruth/3?lang=eng",
+        "verses": 18
+      },
+      {
+        "name": "4",
+        "url": "https://www.lds.org/scriptures/ot/ruth/4?lang=eng",
+        "verses": 22
+      }
+    ]
+  },
+  {
+    "name": "1 Samuel",
+    "url": "https://www.lds.org/scriptures/ot/1-sam?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/1-sam/1?lang=eng",
+        "verses": 28
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/1-sam/2?lang=eng",
+        "verses": 36
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/1-sam/3?lang=eng",
+        "verses": 21
+      },
+      {
+        "name": "4",
+        "url": "https://www.lds.org/scriptures/ot/1-sam/4?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "5",
+        "url": "https://www.lds.org/scriptures/ot/1-sam/5?lang=eng",
+        "verses": 12
+      },
+      {
+        "name": "6",
+        "url": "https://www.lds.org/scriptures/ot/1-sam/6?lang=eng",
+        "verses": 21
+      },
+      {
+        "name": "7",
+        "url": "https://www.lds.org/scriptures/ot/1-sam/7?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "8",
+        "url": "https://www.lds.org/scriptures/ot/1-sam/8?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "9",
+        "url": "https://www.lds.org/scriptures/ot/1-sam/9?lang=eng",
+        "verses": 27
+      },
+      {
+        "name": "10",
+        "url": "https://www.lds.org/scriptures/ot/1-sam/10?lang=eng",
+        "verses": 27
+      },
+      {
+        "name": "11",
+        "url": "https://www.lds.org/scriptures/ot/1-sam/11?lang=eng",
+        "verses": 15
+      },
+      {
+        "name": "12",
+        "url": "https://www.lds.org/scriptures/ot/1-sam/12?lang=eng",
+        "verses": 25
+      },
+      {
+        "name": "13",
+        "url": "https://www.lds.org/scriptures/ot/1-sam/13?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "14",
+        "url": "https://www.lds.org/scriptures/ot/1-sam/14?lang=eng",
+        "verses": 52
+      },
+      {
+        "name": "15",
+        "url": "https://www.lds.org/scriptures/ot/1-sam/15?lang=eng",
+        "verses": 35
+      },
+      {
+        "name": "16",
+        "url": "https://www.lds.org/scriptures/ot/1-sam/16?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "17",
+        "url": "https://www.lds.org/scriptures/ot/1-sam/17?lang=eng",
+        "verses": 58
+      },
+      {
+        "name": "18",
+        "url": "https://www.lds.org/scriptures/ot/1-sam/18?lang=eng",
+        "verses": 30
+      },
+      {
+        "name": "19",
+        "url": "https://www.lds.org/scriptures/ot/1-sam/19?lang=eng",
+        "verses": 24
+      },
+      {
+        "name": "20",
+        "url": "https://www.lds.org/scriptures/ot/1-sam/20?lang=eng",
+        "verses": 42
+      },
+      {
+        "name": "21",
+        "url": "https://www.lds.org/scriptures/ot/1-sam/21?lang=eng",
+        "verses": 15
+      },
+      {
+        "name": "22",
+        "url": "https://www.lds.org/scriptures/ot/1-sam/22?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "23",
+        "url": "https://www.lds.org/scriptures/ot/1-sam/23?lang=eng",
+        "verses": 29
+      },
+      {
+        "name": "24",
+        "url": "https://www.lds.org/scriptures/ot/1-sam/24?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "25",
+        "url": "https://www.lds.org/scriptures/ot/1-sam/25?lang=eng",
+        "verses": 44
+      },
+      {
+        "name": "26",
+        "url": "https://www.lds.org/scriptures/ot/1-sam/26?lang=eng",
+        "verses": 25
+      },
+      {
+        "name": "27",
+        "url": "https://www.lds.org/scriptures/ot/1-sam/27?lang=eng",
+        "verses": 12
+      },
+      {
+        "name": "28",
+        "url": "https://www.lds.org/scriptures/ot/1-sam/28?lang=eng",
+        "verses": 25
+      },
+      {
+        "name": "29",
+        "url": "https://www.lds.org/scriptures/ot/1-sam/29?lang=eng",
+        "verses": 11
+      },
+      {
+        "name": "30",
+        "url": "https://www.lds.org/scriptures/ot/1-sam/30?lang=eng",
+        "verses": 31
+      },
+      {
+        "name": "31",
+        "url": "https://www.lds.org/scriptures/ot/1-sam/31?lang=eng",
+        "verses": 13
+      }
+    ]
+  },
+  {
+    "name": "2 Samuel",
+    "url": "https://www.lds.org/scriptures/ot/2-sam?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/2-sam/1?lang=eng",
+        "verses": 27
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/2-sam/2?lang=eng",
+        "verses": 32
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/2-sam/3?lang=eng",
+        "verses": 39
+      },
+      {
+        "name": "4",
+        "url": "https://www.lds.org/scriptures/ot/2-sam/4?lang=eng",
+        "verses": 12
+      },
+      {
+        "name": "5",
+        "url": "https://www.lds.org/scriptures/ot/2-sam/5?lang=eng",
+        "verses": 25
+      },
+      {
+        "name": "6",
+        "url": "https://www.lds.org/scriptures/ot/2-sam/6?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "7",
+        "url": "https://www.lds.org/scriptures/ot/2-sam/7?lang=eng",
+        "verses": 29
+      },
+      {
+        "name": "8",
+        "url": "https://www.lds.org/scriptures/ot/2-sam/8?lang=eng",
+        "verses": 18
+      },
+      {
+        "name": "9",
+        "url": "https://www.lds.org/scriptures/ot/2-sam/9?lang=eng",
+        "verses": 13
+      },
+      {
+        "name": "10",
+        "url": "https://www.lds.org/scriptures/ot/2-sam/10?lang=eng",
+        "verses": 19
+      },
+      {
+        "name": "11",
+        "url": "https://www.lds.org/scriptures/ot/2-sam/11?lang=eng",
+        "verses": 27
+      },
+      {
+        "name": "12",
+        "url": "https://www.lds.org/scriptures/ot/2-sam/12?lang=eng",
+        "verses": 31
+      },
+      {
+        "name": "13",
+        "url": "https://www.lds.org/scriptures/ot/2-sam/13?lang=eng",
+        "verses": 39
+      },
+      {
+        "name": "14",
+        "url": "https://www.lds.org/scriptures/ot/2-sam/14?lang=eng",
+        "verses": 33
+      },
+      {
+        "name": "15",
+        "url": "https://www.lds.org/scriptures/ot/2-sam/15?lang=eng",
+        "verses": 37
+      },
+      {
+        "name": "16",
+        "url": "https://www.lds.org/scriptures/ot/2-sam/16?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "17",
+        "url": "https://www.lds.org/scriptures/ot/2-sam/17?lang=eng",
+        "verses": 29
+      },
+      {
+        "name": "18",
+        "url": "https://www.lds.org/scriptures/ot/2-sam/18?lang=eng",
+        "verses": 33
+      },
+      {
+        "name": "19",
+        "url": "https://www.lds.org/scriptures/ot/2-sam/19?lang=eng",
+        "verses": 43
+      },
+      {
+        "name": "20",
+        "url": "https://www.lds.org/scriptures/ot/2-sam/20?lang=eng",
+        "verses": 26
+      },
+      {
+        "name": "21",
+        "url": "https://www.lds.org/scriptures/ot/2-sam/21?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "22",
+        "url": "https://www.lds.org/scriptures/ot/2-sam/22?lang=eng",
+        "verses": 51
+      },
+      {
+        "name": "23",
+        "url": "https://www.lds.org/scriptures/ot/2-sam/23?lang=eng",
+        "verses": 39
+      },
+      {
+        "name": "24",
+        "url": "https://www.lds.org/scriptures/ot/2-sam/24?lang=eng",
+        "verses": 25
+      }
+    ]
+  },
+  {
+    "name": "1 Kings",
+    "url": "https://www.lds.org/scriptures/ot/1-kgs?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/1-kgs/1?lang=eng",
+        "verses": 53
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/1-kgs/2?lang=eng",
+        "verses": 46
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/1-kgs/3?lang=eng",
+        "verses": 28
+      },
+      {
+        "name": "4",
+        "url": "https://www.lds.org/scriptures/ot/1-kgs/4?lang=eng",
+        "verses": 34
+      },
+      {
+        "name": "5",
+        "url": "https://www.lds.org/scriptures/ot/1-kgs/5?lang=eng",
+        "verses": 18
+      },
+      {
+        "name": "6",
+        "url": "https://www.lds.org/scriptures/ot/1-kgs/6?lang=eng",
+        "verses": 38
+      },
+      {
+        "name": "7",
+        "url": "https://www.lds.org/scriptures/ot/1-kgs/7?lang=eng",
+        "verses": 51
+      },
+      {
+        "name": "8",
+        "url": "https://www.lds.org/scriptures/ot/1-kgs/8?lang=eng",
+        "verses": 66
+      },
+      {
+        "name": "9",
+        "url": "https://www.lds.org/scriptures/ot/1-kgs/9?lang=eng",
+        "verses": 28
+      },
+      {
+        "name": "10",
+        "url": "https://www.lds.org/scriptures/ot/1-kgs/10?lang=eng",
+        "verses": 29
+      },
+      {
+        "name": "11",
+        "url": "https://www.lds.org/scriptures/ot/1-kgs/11?lang=eng",
+        "verses": 43
+      },
+      {
+        "name": "12",
+        "url": "https://www.lds.org/scriptures/ot/1-kgs/12?lang=eng",
+        "verses": 33
+      },
+      {
+        "name": "13",
+        "url": "https://www.lds.org/scriptures/ot/1-kgs/13?lang=eng",
+        "verses": 34
+      },
+      {
+        "name": "14",
+        "url": "https://www.lds.org/scriptures/ot/1-kgs/14?lang=eng",
+        "verses": 31
+      },
+      {
+        "name": "15",
+        "url": "https://www.lds.org/scriptures/ot/1-kgs/15?lang=eng",
+        "verses": 34
+      },
+      {
+        "name": "16",
+        "url": "https://www.lds.org/scriptures/ot/1-kgs/16?lang=eng",
+        "verses": 34
+      },
+      {
+        "name": "17",
+        "url": "https://www.lds.org/scriptures/ot/1-kgs/17?lang=eng",
+        "verses": 24
+      },
+      {
+        "name": "18",
+        "url": "https://www.lds.org/scriptures/ot/1-kgs/18?lang=eng",
+        "verses": 46
+      },
+      {
+        "name": "19",
+        "url": "https://www.lds.org/scriptures/ot/1-kgs/19?lang=eng",
+        "verses": 21
+      },
+      {
+        "name": "20",
+        "url": "https://www.lds.org/scriptures/ot/1-kgs/20?lang=eng",
+        "verses": 43
+      },
+      {
+        "name": "21",
+        "url": "https://www.lds.org/scriptures/ot/1-kgs/21?lang=eng",
+        "verses": 29
+      },
+      {
+        "name": "22",
+        "url": "https://www.lds.org/scriptures/ot/1-kgs/22?lang=eng",
+        "verses": 53
+      }
+    ]
+  },
+  {
+    "name": "2 Kings",
+    "url": "https://www.lds.org/scriptures/ot/2-kgs?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/2-kgs/1?lang=eng",
+        "verses": 18
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/2-kgs/2?lang=eng",
+        "verses": 25
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/2-kgs/3?lang=eng",
+        "verses": 27
+      },
+      {
+        "name": "4",
+        "url": "https://www.lds.org/scriptures/ot/2-kgs/4?lang=eng",
+        "verses": 44
+      },
+      {
+        "name": "5",
+        "url": "https://www.lds.org/scriptures/ot/2-kgs/5?lang=eng",
+        "verses": 27
+      },
+      {
+        "name": "6",
+        "url": "https://www.lds.org/scriptures/ot/2-kgs/6?lang=eng",
+        "verses": 33
+      },
+      {
+        "name": "7",
+        "url": "https://www.lds.org/scriptures/ot/2-kgs/7?lang=eng",
+        "verses": 20
+      },
+      {
+        "name": "8",
+        "url": "https://www.lds.org/scriptures/ot/2-kgs/8?lang=eng",
+        "verses": 29
+      },
+      {
+        "name": "9",
+        "url": "https://www.lds.org/scriptures/ot/2-kgs/9?lang=eng",
+        "verses": 37
+      },
+      {
+        "name": "10",
+        "url": "https://www.lds.org/scriptures/ot/2-kgs/10?lang=eng",
+        "verses": 36
+      },
+      {
+        "name": "11",
+        "url": "https://www.lds.org/scriptures/ot/2-kgs/11?lang=eng",
+        "verses": 21
+      },
+      {
+        "name": "12",
+        "url": "https://www.lds.org/scriptures/ot/2-kgs/12?lang=eng",
+        "verses": 21
+      },
+      {
+        "name": "13",
+        "url": "https://www.lds.org/scriptures/ot/2-kgs/13?lang=eng",
+        "verses": 25
+      },
+      {
+        "name": "14",
+        "url": "https://www.lds.org/scriptures/ot/2-kgs/14?lang=eng",
+        "verses": 29
+      },
+      {
+        "name": "15",
+        "url": "https://www.lds.org/scriptures/ot/2-kgs/15?lang=eng",
+        "verses": 38
+      },
+      {
+        "name": "16",
+        "url": "https://www.lds.org/scriptures/ot/2-kgs/16?lang=eng",
+        "verses": 20
+      },
+      {
+        "name": "17",
+        "url": "https://www.lds.org/scriptures/ot/2-kgs/17?lang=eng",
+        "verses": 41
+      },
+      {
+        "name": "18",
+        "url": "https://www.lds.org/scriptures/ot/2-kgs/18?lang=eng",
+        "verses": 37
+      },
+      {
+        "name": "19",
+        "url": "https://www.lds.org/scriptures/ot/2-kgs/19?lang=eng",
+        "verses": 37
+      },
+      {
+        "name": "20",
+        "url": "https://www.lds.org/scriptures/ot/2-kgs/20?lang=eng",
+        "verses": 21
+      },
+      {
+        "name": "21",
+        "url": "https://www.lds.org/scriptures/ot/2-kgs/21?lang=eng",
+        "verses": 26
+      },
+      {
+        "name": "22",
+        "url": "https://www.lds.org/scriptures/ot/2-kgs/22?lang=eng",
+        "verses": 20
+      },
+      {
+        "name": "23",
+        "url": "https://www.lds.org/scriptures/ot/2-kgs/23?lang=eng",
+        "verses": 37
+      },
+      {
+        "name": "24",
+        "url": "https://www.lds.org/scriptures/ot/2-kgs/24?lang=eng",
+        "verses": 20
+      },
+      {
+        "name": "25",
+        "url": "https://www.lds.org/scriptures/ot/2-kgs/25?lang=eng",
+        "verses": 30
+      }
+    ]
+  },
+  {
+    "name": "1 Chronicles",
+    "url": "https://www.lds.org/scriptures/ot/1-chr?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/1-chr/1?lang=eng",
+        "verses": 54
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/1-chr/2?lang=eng",
+        "verses": 55
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/1-chr/3?lang=eng",
+        "verses": 24
+      },
+      {
+        "name": "4",
+        "url": "https://www.lds.org/scriptures/ot/1-chr/4?lang=eng",
+        "verses": 43
+      },
+      {
+        "name": "5",
+        "url": "https://www.lds.org/scriptures/ot/1-chr/5?lang=eng",
+        "verses": 26
+      },
+      {
+        "name": "6",
+        "url": "https://www.lds.org/scriptures/ot/1-chr/6?lang=eng",
+        "verses": 81
+      },
+      {
+        "name": "7",
+        "url": "https://www.lds.org/scriptures/ot/1-chr/7?lang=eng",
+        "verses": 40
+      },
+      {
+        "name": "8",
+        "url": "https://www.lds.org/scriptures/ot/1-chr/8?lang=eng",
+        "verses": 40
+      },
+      {
+        "name": "9",
+        "url": "https://www.lds.org/scriptures/ot/1-chr/9?lang=eng",
+        "verses": 44
+      },
+      {
+        "name": "10",
+        "url": "https://www.lds.org/scriptures/ot/1-chr/10?lang=eng",
+        "verses": 14
+      },
+      {
+        "name": "11",
+        "url": "https://www.lds.org/scriptures/ot/1-chr/11?lang=eng",
+        "verses": 47
+      },
+      {
+        "name": "12",
+        "url": "https://www.lds.org/scriptures/ot/1-chr/12?lang=eng",
+        "verses": 40
+      },
+      {
+        "name": "13",
+        "url": "https://www.lds.org/scriptures/ot/1-chr/13?lang=eng",
+        "verses": 14
+      },
+      {
+        "name": "14",
+        "url": "https://www.lds.org/scriptures/ot/1-chr/14?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "15",
+        "url": "https://www.lds.org/scriptures/ot/1-chr/15?lang=eng",
+        "verses": 29
+      },
+      {
+        "name": "16",
+        "url": "https://www.lds.org/scriptures/ot/1-chr/16?lang=eng",
+        "verses": 43
+      },
+      {
+        "name": "17",
+        "url": "https://www.lds.org/scriptures/ot/1-chr/17?lang=eng",
+        "verses": 27
+      },
+      {
+        "name": "18",
+        "url": "https://www.lds.org/scriptures/ot/1-chr/18?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "19",
+        "url": "https://www.lds.org/scriptures/ot/1-chr/19?lang=eng",
+        "verses": 19
+      },
+      {
+        "name": "20",
+        "url": "https://www.lds.org/scriptures/ot/1-chr/20?lang=eng",
+        "verses": 8
+      },
+      {
+        "name": "21",
+        "url": "https://www.lds.org/scriptures/ot/1-chr/21?lang=eng",
+        "verses": 30
+      },
+      {
+        "name": "22",
+        "url": "https://www.lds.org/scriptures/ot/1-chr/22?lang=eng",
+        "verses": 19
+      },
+      {
+        "name": "23",
+        "url": "https://www.lds.org/scriptures/ot/1-chr/23?lang=eng",
+        "verses": 32
+      },
+      {
+        "name": "24",
+        "url": "https://www.lds.org/scriptures/ot/1-chr/24?lang=eng",
+        "verses": 31
+      },
+      {
+        "name": "25",
+        "url": "https://www.lds.org/scriptures/ot/1-chr/25?lang=eng",
+        "verses": 31
+      },
+      {
+        "name": "26",
+        "url": "https://www.lds.org/scriptures/ot/1-chr/26?lang=eng",
+        "verses": 32
+      },
+      {
+        "name": "27",
+        "url": "https://www.lds.org/scriptures/ot/1-chr/27?lang=eng",
+        "verses": 34
+      },
+      {
+        "name": "28",
+        "url": "https://www.lds.org/scriptures/ot/1-chr/28?lang=eng",
+        "verses": 21
+      },
+      {
+        "name": "29",
+        "url": "https://www.lds.org/scriptures/ot/1-chr/29?lang=eng",
+        "verses": 30
+      }
+    ]
+  },
+  {
+    "name": "2 Chronicles",
+    "url": "https://www.lds.org/scriptures/ot/2-chr?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/2-chr/1?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/2-chr/2?lang=eng",
+        "verses": 18
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/2-chr/3?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "4",
+        "url": "https://www.lds.org/scriptures/ot/2-chr/4?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "5",
+        "url": "https://www.lds.org/scriptures/ot/2-chr/5?lang=eng",
+        "verses": 14
+      },
+      {
+        "name": "6",
+        "url": "https://www.lds.org/scriptures/ot/2-chr/6?lang=eng",
+        "verses": 42
+      },
+      {
+        "name": "7",
+        "url": "https://www.lds.org/scriptures/ot/2-chr/7?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "8",
+        "url": "https://www.lds.org/scriptures/ot/2-chr/8?lang=eng",
+        "verses": 18
+      },
+      {
+        "name": "9",
+        "url": "https://www.lds.org/scriptures/ot/2-chr/9?lang=eng",
+        "verses": 31
+      },
+      {
+        "name": "10",
+        "url": "https://www.lds.org/scriptures/ot/2-chr/10?lang=eng",
+        "verses": 19
+      },
+      {
+        "name": "11",
+        "url": "https://www.lds.org/scriptures/ot/2-chr/11?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "12",
+        "url": "https://www.lds.org/scriptures/ot/2-chr/12?lang=eng",
+        "verses": 16
+      },
+      {
+        "name": "13",
+        "url": "https://www.lds.org/scriptures/ot/2-chr/13?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "14",
+        "url": "https://www.lds.org/scriptures/ot/2-chr/14?lang=eng",
+        "verses": 15
+      },
+      {
+        "name": "15",
+        "url": "https://www.lds.org/scriptures/ot/2-chr/15?lang=eng",
+        "verses": 19
+      },
+      {
+        "name": "16",
+        "url": "https://www.lds.org/scriptures/ot/2-chr/16?lang=eng",
+        "verses": 14
+      },
+      {
+        "name": "17",
+        "url": "https://www.lds.org/scriptures/ot/2-chr/17?lang=eng",
+        "verses": 19
+      },
+      {
+        "name": "18",
+        "url": "https://www.lds.org/scriptures/ot/2-chr/18?lang=eng",
+        "verses": 34
+      },
+      {
+        "name": "19",
+        "url": "https://www.lds.org/scriptures/ot/2-chr/19?lang=eng",
+        "verses": 11
+      },
+      {
+        "name": "20",
+        "url": "https://www.lds.org/scriptures/ot/2-chr/20?lang=eng",
+        "verses": 37
+      },
+      {
+        "name": "21",
+        "url": "https://www.lds.org/scriptures/ot/2-chr/21?lang=eng",
+        "verses": 20
+      },
+      {
+        "name": "22",
+        "url": "https://www.lds.org/scriptures/ot/2-chr/22?lang=eng",
+        "verses": 12
+      },
+      {
+        "name": "23",
+        "url": "https://www.lds.org/scriptures/ot/2-chr/23?lang=eng",
+        "verses": 21
+      },
+      {
+        "name": "24",
+        "url": "https://www.lds.org/scriptures/ot/2-chr/24?lang=eng",
+        "verses": 27
+      },
+      {
+        "name": "25",
+        "url": "https://www.lds.org/scriptures/ot/2-chr/25?lang=eng",
+        "verses": 28
+      },
+      {
+        "name": "26",
+        "url": "https://www.lds.org/scriptures/ot/2-chr/26?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "27",
+        "url": "https://www.lds.org/scriptures/ot/2-chr/27?lang=eng",
+        "verses": 9
+      },
+      {
+        "name": "28",
+        "url": "https://www.lds.org/scriptures/ot/2-chr/28?lang=eng",
+        "verses": 27
+      },
+      {
+        "name": "29",
+        "url": "https://www.lds.org/scriptures/ot/2-chr/29?lang=eng",
+        "verses": 36
+      },
+      {
+        "name": "30",
+        "url": "https://www.lds.org/scriptures/ot/2-chr/30?lang=eng",
+        "verses": 27
+      },
+      {
+        "name": "31",
+        "url": "https://www.lds.org/scriptures/ot/2-chr/31?lang=eng",
+        "verses": 21
+      },
+      {
+        "name": "32",
+        "url": "https://www.lds.org/scriptures/ot/2-chr/32?lang=eng",
+        "verses": 33
+      },
+      {
+        "name": "33",
+        "url": "https://www.lds.org/scriptures/ot/2-chr/33?lang=eng",
+        "verses": 25
+      },
+      {
+        "name": "34",
+        "url": "https://www.lds.org/scriptures/ot/2-chr/34?lang=eng",
+        "verses": 33
+      },
+      {
+        "name": "35",
+        "url": "https://www.lds.org/scriptures/ot/2-chr/35?lang=eng",
+        "verses": 27
+      },
+      {
+        "name": "36",
+        "url": "https://www.lds.org/scriptures/ot/2-chr/36?lang=eng",
+        "verses": 23
+      }
+    ]
+  },
+  {
+    "name": "Ezra",
+    "url": "https://www.lds.org/scriptures/ot/ezra?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/ezra/1?lang=eng",
+        "verses": 11
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/ezra/2?lang=eng",
+        "verses": 70
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/ezra/3?lang=eng",
+        "verses": 13
+      },
+      {
+        "name": "4",
+        "url": "https://www.lds.org/scriptures/ot/ezra/4?lang=eng",
+        "verses": 24
+      },
+      {
+        "name": "5",
+        "url": "https://www.lds.org/scriptures/ot/ezra/5?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "6",
+        "url": "https://www.lds.org/scriptures/ot/ezra/6?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "7",
+        "url": "https://www.lds.org/scriptures/ot/ezra/7?lang=eng",
+        "verses": 28
+      },
+      {
+        "name": "8",
+        "url": "https://www.lds.org/scriptures/ot/ezra/8?lang=eng",
+        "verses": 36
+      },
+      {
+        "name": "9",
+        "url": "https://www.lds.org/scriptures/ot/ezra/9?lang=eng",
+        "verses": 15
+      },
+      {
+        "name": "10",
+        "url": "https://www.lds.org/scriptures/ot/ezra/10?lang=eng",
+        "verses": 44
+      }
+    ]
+  },
+  {
+    "name": "Nehemiah",
+    "url": "https://www.lds.org/scriptures/ot/neh?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/neh/1?lang=eng",
+        "verses": 11
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/neh/2?lang=eng",
+        "verses": 20
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/neh/3?lang=eng",
+        "verses": 32
+      },
+      {
+        "name": "4",
+        "url": "https://www.lds.org/scriptures/ot/neh/4?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "5",
+        "url": "https://www.lds.org/scriptures/ot/neh/5?lang=eng",
+        "verses": 19
+      },
+      {
+        "name": "6",
+        "url": "https://www.lds.org/scriptures/ot/neh/6?lang=eng",
+        "verses": 19
+      },
+      {
+        "name": "7",
+        "url": "https://www.lds.org/scriptures/ot/neh/7?lang=eng",
+        "verses": 73
+      },
+      {
+        "name": "8",
+        "url": "https://www.lds.org/scriptures/ot/neh/8?lang=eng",
+        "verses": 18
+      },
+      {
+        "name": "9",
+        "url": "https://www.lds.org/scriptures/ot/neh/9?lang=eng",
+        "verses": 38
+      },
+      {
+        "name": "10",
+        "url": "https://www.lds.org/scriptures/ot/neh/10?lang=eng",
+        "verses": 39
+      },
+      {
+        "name": "11",
+        "url": "https://www.lds.org/scriptures/ot/neh/11?lang=eng",
+        "verses": 36
+      },
+      {
+        "name": "12",
+        "url": "https://www.lds.org/scriptures/ot/neh/12?lang=eng",
+        "verses": 47
+      },
+      {
+        "name": "13",
+        "url": "https://www.lds.org/scriptures/ot/neh/13?lang=eng",
+        "verses": 31
+      }
+    ]
+  },
+  {
+    "name": "Esther",
+    "url": "https://www.lds.org/scriptures/ot/esth?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/esth/1?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/esth/2?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/esth/3?lang=eng",
+        "verses": 15
+      },
+      {
+        "name": "4",
+        "url": "https://www.lds.org/scriptures/ot/esth/4?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "5",
+        "url": "https://www.lds.org/scriptures/ot/esth/5?lang=eng",
+        "verses": 14
+      },
+      {
+        "name": "6",
+        "url": "https://www.lds.org/scriptures/ot/esth/6?lang=eng",
+        "verses": 14
+      },
+      {
+        "name": "7",
+        "url": "https://www.lds.org/scriptures/ot/esth/7?lang=eng",
+        "verses": 10
+      },
+      {
+        "name": "8",
+        "url": "https://www.lds.org/scriptures/ot/esth/8?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "9",
+        "url": "https://www.lds.org/scriptures/ot/esth/9?lang=eng",
+        "verses": 32
+      },
+      {
+        "name": "10",
+        "url": "https://www.lds.org/scriptures/ot/esth/10?lang=eng",
+        "verses": 3
+      }
+    ]
+  },
+  {
+    "name": "Job",
+    "url": "https://www.lds.org/scriptures/ot/job?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/job/1?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/job/2?lang=eng",
+        "verses": 13
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/job/3?lang=eng",
+        "verses": 26
+      },
+      {
+        "name": "4",
+        "url": "https://www.lds.org/scriptures/ot/job/4?lang=eng",
+        "verses": 21
+      },
+      {
+        "name": "5",
+        "url": "https://www.lds.org/scriptures/ot/job/5?lang=eng",
+        "verses": 27
+      },
+      {
+        "name": "6",
+        "url": "https://www.lds.org/scriptures/ot/job/6?lang=eng",
+        "verses": 30
+      },
+      {
+        "name": "7",
+        "url": "https://www.lds.org/scriptures/ot/job/7?lang=eng",
+        "verses": 21
+      },
+      {
+        "name": "8",
+        "url": "https://www.lds.org/scriptures/ot/job/8?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "9",
+        "url": "https://www.lds.org/scriptures/ot/job/9?lang=eng",
+        "verses": 35
+      },
+      {
+        "name": "10",
+        "url": "https://www.lds.org/scriptures/ot/job/10?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "11",
+        "url": "https://www.lds.org/scriptures/ot/job/11?lang=eng",
+        "verses": 20
+      },
+      {
+        "name": "12",
+        "url": "https://www.lds.org/scriptures/ot/job/12?lang=eng",
+        "verses": 25
+      },
+      {
+        "name": "13",
+        "url": "https://www.lds.org/scriptures/ot/job/13?lang=eng",
+        "verses": 28
+      },
+      {
+        "name": "14",
+        "url": "https://www.lds.org/scriptures/ot/job/14?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "15",
+        "url": "https://www.lds.org/scriptures/ot/job/15?lang=eng",
+        "verses": 35
+      },
+      {
+        "name": "16",
+        "url": "https://www.lds.org/scriptures/ot/job/16?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "17",
+        "url": "https://www.lds.org/scriptures/ot/job/17?lang=eng",
+        "verses": 16
+      },
+      {
+        "name": "18",
+        "url": "https://www.lds.org/scriptures/ot/job/18?lang=eng",
+        "verses": 21
+      },
+      {
+        "name": "19",
+        "url": "https://www.lds.org/scriptures/ot/job/19?lang=eng",
+        "verses": 29
+      },
+      {
+        "name": "20",
+        "url": "https://www.lds.org/scriptures/ot/job/20?lang=eng",
+        "verses": 29
+      },
+      {
+        "name": "21",
+        "url": "https://www.lds.org/scriptures/ot/job/21?lang=eng",
+        "verses": 34
+      },
+      {
+        "name": "22",
+        "url": "https://www.lds.org/scriptures/ot/job/22?lang=eng",
+        "verses": 30
+      },
+      {
+        "name": "23",
+        "url": "https://www.lds.org/scriptures/ot/job/23?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "24",
+        "url": "https://www.lds.org/scriptures/ot/job/24?lang=eng",
+        "verses": 25
+      },
+      {
+        "name": "25",
+        "url": "https://www.lds.org/scriptures/ot/job/25?lang=eng",
+        "verses": 6
+      },
+      {
+        "name": "26",
+        "url": "https://www.lds.org/scriptures/ot/job/26?lang=eng",
+        "verses": 14
+      },
+      {
+        "name": "27",
+        "url": "https://www.lds.org/scriptures/ot/job/27?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "28",
+        "url": "https://www.lds.org/scriptures/ot/job/28?lang=eng",
+        "verses": 28
+      },
+      {
+        "name": "29",
+        "url": "https://www.lds.org/scriptures/ot/job/29?lang=eng",
+        "verses": 25
+      },
+      {
+        "name": "30",
+        "url": "https://www.lds.org/scriptures/ot/job/30?lang=eng",
+        "verses": 31
+      },
+      {
+        "name": "31",
+        "url": "https://www.lds.org/scriptures/ot/job/31?lang=eng",
+        "verses": 40
+      },
+      {
+        "name": "32",
+        "url": "https://www.lds.org/scriptures/ot/job/32?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "33",
+        "url": "https://www.lds.org/scriptures/ot/job/33?lang=eng",
+        "verses": 33
+      },
+      {
+        "name": "34",
+        "url": "https://www.lds.org/scriptures/ot/job/34?lang=eng",
+        "verses": 37
+      },
+      {
+        "name": "35",
+        "url": "https://www.lds.org/scriptures/ot/job/35?lang=eng",
+        "verses": 16
+      },
+      {
+        "name": "36",
+        "url": "https://www.lds.org/scriptures/ot/job/36?lang=eng",
+        "verses": 33
+      },
+      {
+        "name": "37",
+        "url": "https://www.lds.org/scriptures/ot/job/37?lang=eng",
+        "verses": 24
+      },
+      {
+        "name": "38",
+        "url": "https://www.lds.org/scriptures/ot/job/38?lang=eng",
+        "verses": 41
+      },
+      {
+        "name": "39",
+        "url": "https://www.lds.org/scriptures/ot/job/39?lang=eng",
+        "verses": 30
+      },
+      {
+        "name": "40",
+        "url": "https://www.lds.org/scriptures/ot/job/40?lang=eng",
+        "verses": 24
+      },
+      {
+        "name": "41",
+        "url": "https://www.lds.org/scriptures/ot/job/41?lang=eng",
+        "verses": 34
+      },
+      {
+        "name": "42",
+        "url": "https://www.lds.org/scriptures/ot/job/42?lang=eng",
+        "verses": 17
+      }
+    ]
+  },
+  {
+    "name": "Psalms",
+    "url": "https://www.lds.org/scriptures/ot/ps?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/ps/1?lang=eng",
+        "verses": 6
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/ps/2?lang=eng",
+        "verses": 12
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/ps/3?lang=eng",
+        "verses": 8
+      },
+      {
+        "name": "4",
+        "url": "https://www.lds.org/scriptures/ot/ps/4?lang=eng",
+        "verses": 8
+      },
+      {
+        "name": "5",
+        "url": "https://www.lds.org/scriptures/ot/ps/5?lang=eng",
+        "verses": 12
+      },
+      {
+        "name": "6",
+        "url": "https://www.lds.org/scriptures/ot/ps/6?lang=eng",
+        "verses": 10
+      },
+      {
+        "name": "7",
+        "url": "https://www.lds.org/scriptures/ot/ps/7?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "8",
+        "url": "https://www.lds.org/scriptures/ot/ps/8?lang=eng",
+        "verses": 9
+      },
+      {
+        "name": "9",
+        "url": "https://www.lds.org/scriptures/ot/ps/9?lang=eng",
+        "verses": 20
+      },
+      {
+        "name": "10",
+        "url": "https://www.lds.org/scriptures/ot/ps/10?lang=eng",
+        "verses": 18
+      },
+      {
+        "name": "11",
+        "url": "https://www.lds.org/scriptures/ot/ps/11?lang=eng",
+        "verses": 7
+      },
+      {
+        "name": "12",
+        "url": "https://www.lds.org/scriptures/ot/ps/12?lang=eng",
+        "verses": 8
+      },
+      {
+        "name": "13",
+        "url": "https://www.lds.org/scriptures/ot/ps/13?lang=eng",
+        "verses": 6
+      },
+      {
+        "name": "14",
+        "url": "https://www.lds.org/scriptures/ot/ps/14?lang=eng",
+        "verses": 7
+      },
+      {
+        "name": "15",
+        "url": "https://www.lds.org/scriptures/ot/ps/15?lang=eng",
+        "verses": 5
+      },
+      {
+        "name": "16",
+        "url": "https://www.lds.org/scriptures/ot/ps/16?lang=eng",
+        "verses": 11
+      },
+      {
+        "name": "17",
+        "url": "https://www.lds.org/scriptures/ot/ps/17?lang=eng",
+        "verses": 15
+      },
+      {
+        "name": "18",
+        "url": "https://www.lds.org/scriptures/ot/ps/18?lang=eng",
+        "verses": 50
+      },
+      {
+        "name": "19",
+        "url": "https://www.lds.org/scriptures/ot/ps/19?lang=eng",
+        "verses": 14
+      },
+      {
+        "name": "20",
+        "url": "https://www.lds.org/scriptures/ot/ps/20?lang=eng",
+        "verses": 9
+      },
+      {
+        "name": "21",
+        "url": "https://www.lds.org/scriptures/ot/ps/21?lang=eng",
+        "verses": 13
+      },
+      {
+        "name": "22",
+        "url": "https://www.lds.org/scriptures/ot/ps/22?lang=eng",
+        "verses": 31
+      },
+      {
+        "name": "23",
+        "url": "https://www.lds.org/scriptures/ot/ps/23?lang=eng",
+        "verses": 6
+      },
+      {
+        "name": "24",
+        "url": "https://www.lds.org/scriptures/ot/ps/24?lang=eng",
+        "verses": 10
+      },
+      {
+        "name": "25",
+        "url": "https://www.lds.org/scriptures/ot/ps/25?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "26",
+        "url": "https://www.lds.org/scriptures/ot/ps/26?lang=eng",
+        "verses": 12
+      },
+      {
+        "name": "27",
+        "url": "https://www.lds.org/scriptures/ot/ps/27?lang=eng",
+        "verses": 14
+      },
+      {
+        "name": "28",
+        "url": "https://www.lds.org/scriptures/ot/ps/28?lang=eng",
+        "verses": 9
+      },
+      {
+        "name": "29",
+        "url": "https://www.lds.org/scriptures/ot/ps/29?lang=eng",
+        "verses": 11
+      },
+      {
+        "name": "30",
+        "url": "https://www.lds.org/scriptures/ot/ps/30?lang=eng",
+        "verses": 12
+      },
+      {
+        "name": "31",
+        "url": "https://www.lds.org/scriptures/ot/ps/31?lang=eng",
+        "verses": 24
+      },
+      {
+        "name": "32",
+        "url": "https://www.lds.org/scriptures/ot/ps/32?lang=eng",
+        "verses": 11
+      },
+      {
+        "name": "33",
+        "url": "https://www.lds.org/scriptures/ot/ps/33?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "34",
+        "url": "https://www.lds.org/scriptures/ot/ps/34?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "35",
+        "url": "https://www.lds.org/scriptures/ot/ps/35?lang=eng",
+        "verses": 28
+      },
+      {
+        "name": "36",
+        "url": "https://www.lds.org/scriptures/ot/ps/36?lang=eng",
+        "verses": 12
+      },
+      {
+        "name": "37",
+        "url": "https://www.lds.org/scriptures/ot/ps/37?lang=eng",
+        "verses": 40
+      },
+      {
+        "name": "38",
+        "url": "https://www.lds.org/scriptures/ot/ps/38?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "39",
+        "url": "https://www.lds.org/scriptures/ot/ps/39?lang=eng",
+        "verses": 13
+      },
+      {
+        "name": "40",
+        "url": "https://www.lds.org/scriptures/ot/ps/40?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "41",
+        "url": "https://www.lds.org/scriptures/ot/ps/41?lang=eng",
+        "verses": 13
+      },
+      {
+        "name": "42",
+        "url": "https://www.lds.org/scriptures/ot/ps/42?lang=eng",
+        "verses": 11
+      },
+      {
+        "name": "43",
+        "url": "https://www.lds.org/scriptures/ot/ps/43?lang=eng",
+        "verses": 5
+      },
+      {
+        "name": "44",
+        "url": "https://www.lds.org/scriptures/ot/ps/44?lang=eng",
+        "verses": 26
+      },
+      {
+        "name": "45",
+        "url": "https://www.lds.org/scriptures/ot/ps/45?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "46",
+        "url": "https://www.lds.org/scriptures/ot/ps/46?lang=eng",
+        "verses": 11
+      },
+      {
+        "name": "47",
+        "url": "https://www.lds.org/scriptures/ot/ps/47?lang=eng",
+        "verses": 9
+      },
+      {
+        "name": "48",
+        "url": "https://www.lds.org/scriptures/ot/ps/48?lang=eng",
+        "verses": 14
+      },
+      {
+        "name": "49",
+        "url": "https://www.lds.org/scriptures/ot/ps/49?lang=eng",
+        "verses": 20
+      },
+      {
+        "name": "50",
+        "url": "https://www.lds.org/scriptures/ot/ps/50?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "51",
+        "url": "https://www.lds.org/scriptures/ot/ps/51?lang=eng",
+        "verses": 19
+      },
+      {
+        "name": "52",
+        "url": "https://www.lds.org/scriptures/ot/ps/52?lang=eng",
+        "verses": 9
+      },
+      {
+        "name": "53",
+        "url": "https://www.lds.org/scriptures/ot/ps/53?lang=eng",
+        "verses": 6
+      },
+      {
+        "name": "54",
+        "url": "https://www.lds.org/scriptures/ot/ps/54?lang=eng",
+        "verses": 7
+      },
+      {
+        "name": "55",
+        "url": "https://www.lds.org/scriptures/ot/ps/55?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "56",
+        "url": "https://www.lds.org/scriptures/ot/ps/56?lang=eng",
+        "verses": 13
+      },
+      {
+        "name": "57",
+        "url": "https://www.lds.org/scriptures/ot/ps/57?lang=eng",
+        "verses": 11
+      },
+      {
+        "name": "58",
+        "url": "https://www.lds.org/scriptures/ot/ps/58?lang=eng",
+        "verses": 11
+      },
+      {
+        "name": "59",
+        "url": "https://www.lds.org/scriptures/ot/ps/59?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "60",
+        "url": "https://www.lds.org/scriptures/ot/ps/60?lang=eng",
+        "verses": 12
+      },
+      {
+        "name": "61",
+        "url": "https://www.lds.org/scriptures/ot/ps/61?lang=eng",
+        "verses": 8
+      },
+      {
+        "name": "62",
+        "url": "https://www.lds.org/scriptures/ot/ps/62?lang=eng",
+        "verses": 12
+      },
+      {
+        "name": "63",
+        "url": "https://www.lds.org/scriptures/ot/ps/63?lang=eng",
+        "verses": 11
+      },
+      {
+        "name": "64",
+        "url": "https://www.lds.org/scriptures/ot/ps/64?lang=eng",
+        "verses": 10
+      },
+      {
+        "name": "65",
+        "url": "https://www.lds.org/scriptures/ot/ps/65?lang=eng",
+        "verses": 13
+      },
+      {
+        "name": "66",
+        "url": "https://www.lds.org/scriptures/ot/ps/66?lang=eng",
+        "verses": 20
+      },
+      {
+        "name": "67",
+        "url": "https://www.lds.org/scriptures/ot/ps/67?lang=eng",
+        "verses": 7
+      },
+      {
+        "name": "68",
+        "url": "https://www.lds.org/scriptures/ot/ps/68?lang=eng",
+        "verses": 35
+      },
+      {
+        "name": "69",
+        "url": "https://www.lds.org/scriptures/ot/ps/69?lang=eng",
+        "verses": 36
+      },
+      {
+        "name": "70",
+        "url": "https://www.lds.org/scriptures/ot/ps/70?lang=eng",
+        "verses": 5
+      },
+      {
+        "name": "71",
+        "url": "https://www.lds.org/scriptures/ot/ps/71?lang=eng",
+        "verses": 24
+      },
+      {
+        "name": "72",
+        "url": "https://www.lds.org/scriptures/ot/ps/72?lang=eng",
+        "verses": 20
+      },
+      {
+        "name": "73",
+        "url": "https://www.lds.org/scriptures/ot/ps/73?lang=eng",
+        "verses": 28
+      },
+      {
+        "name": "74",
+        "url": "https://www.lds.org/scriptures/ot/ps/74?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "75",
+        "url": "https://www.lds.org/scriptures/ot/ps/75?lang=eng",
+        "verses": 10
+      },
+      {
+        "name": "76",
+        "url": "https://www.lds.org/scriptures/ot/ps/76?lang=eng",
+        "verses": 12
+      },
+      {
+        "name": "77",
+        "url": "https://www.lds.org/scriptures/ot/ps/77?lang=eng",
+        "verses": 20
+      },
+      {
+        "name": "78",
+        "url": "https://www.lds.org/scriptures/ot/ps/78?lang=eng",
+        "verses": 72
+      },
+      {
+        "name": "79",
+        "url": "https://www.lds.org/scriptures/ot/ps/79?lang=eng",
+        "verses": 13
+      },
+      {
+        "name": "80",
+        "url": "https://www.lds.org/scriptures/ot/ps/80?lang=eng",
+        "verses": 19
+      },
+      {
+        "name": "81",
+        "url": "https://www.lds.org/scriptures/ot/ps/81?lang=eng",
+        "verses": 16
+      },
+      {
+        "name": "82",
+        "url": "https://www.lds.org/scriptures/ot/ps/82?lang=eng",
+        "verses": 8
+      },
+      {
+        "name": "83",
+        "url": "https://www.lds.org/scriptures/ot/ps/83?lang=eng",
+        "verses": 18
+      },
+      {
+        "name": "84",
+        "url": "https://www.lds.org/scriptures/ot/ps/84?lang=eng",
+        "verses": 12
+      },
+      {
+        "name": "85",
+        "url": "https://www.lds.org/scriptures/ot/ps/85?lang=eng",
+        "verses": 13
+      },
+      {
+        "name": "86",
+        "url": "https://www.lds.org/scriptures/ot/ps/86?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "87",
+        "url": "https://www.lds.org/scriptures/ot/ps/87?lang=eng",
+        "verses": 7
+      },
+      {
+        "name": "88",
+        "url": "https://www.lds.org/scriptures/ot/ps/88?lang=eng",
+        "verses": 18
+      },
+      {
+        "name": "89",
+        "url": "https://www.lds.org/scriptures/ot/ps/89?lang=eng",
+        "verses": 52
+      },
+      {
+        "name": "90",
+        "url": "https://www.lds.org/scriptures/ot/ps/90?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "91",
+        "url": "https://www.lds.org/scriptures/ot/ps/91?lang=eng",
+        "verses": 16
+      },
+      {
+        "name": "92",
+        "url": "https://www.lds.org/scriptures/ot/ps/92?lang=eng",
+        "verses": 15
+      },
+      {
+        "name": "93",
+        "url": "https://www.lds.org/scriptures/ot/ps/93?lang=eng",
+        "verses": 5
+      },
+      {
+        "name": "94",
+        "url": "https://www.lds.org/scriptures/ot/ps/94?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "95",
+        "url": "https://www.lds.org/scriptures/ot/ps/95?lang=eng",
+        "verses": 11
+      },
+      {
+        "name": "96",
+        "url": "https://www.lds.org/scriptures/ot/ps/96?lang=eng",
+        "verses": 13
+      },
+      {
+        "name": "97",
+        "url": "https://www.lds.org/scriptures/ot/ps/97?lang=eng",
+        "verses": 12
+      },
+      {
+        "name": "98",
+        "url": "https://www.lds.org/scriptures/ot/ps/98?lang=eng",
+        "verses": 9
+      },
+      {
+        "name": "99",
+        "url": "https://www.lds.org/scriptures/ot/ps/99?lang=eng",
+        "verses": 9
+      },
+      {
+        "name": "100",
+        "url": "https://www.lds.org/scriptures/ot/ps/100?lang=eng",
+        "verses": 5
+      },
+      {
+        "name": "101",
+        "url": "https://www.lds.org/scriptures/ot/ps/101?lang=eng",
+        "verses": 8
+      },
+      {
+        "name": "102",
+        "url": "https://www.lds.org/scriptures/ot/ps/102?lang=eng",
+        "verses": 28
+      },
+      {
+        "name": "103",
+        "url": "https://www.lds.org/scriptures/ot/ps/103?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "104",
+        "url": "https://www.lds.org/scriptures/ot/ps/104?lang=eng",
+        "verses": 35
+      },
+      {
+        "name": "105",
+        "url": "https://www.lds.org/scriptures/ot/ps/105?lang=eng",
+        "verses": 45
+      },
+      {
+        "name": "106",
+        "url": "https://www.lds.org/scriptures/ot/ps/106?lang=eng",
+        "verses": 48
+      },
+      {
+        "name": "107",
+        "url": "https://www.lds.org/scriptures/ot/ps/107?lang=eng",
+        "verses": 43
+      },
+      {
+        "name": "108",
+        "url": "https://www.lds.org/scriptures/ot/ps/108?lang=eng",
+        "verses": 13
+      },
+      {
+        "name": "109",
+        "url": "https://www.lds.org/scriptures/ot/ps/109?lang=eng",
+        "verses": 31
+      },
+      {
+        "name": "110",
+        "url": "https://www.lds.org/scriptures/ot/ps/110?lang=eng",
+        "verses": 7
+      },
+      {
+        "name": "111",
+        "url": "https://www.lds.org/scriptures/ot/ps/111?lang=eng",
+        "verses": 10
+      },
+      {
+        "name": "112",
+        "url": "https://www.lds.org/scriptures/ot/ps/112?lang=eng",
+        "verses": 10
+      },
+      {
+        "name": "113",
+        "url": "https://www.lds.org/scriptures/ot/ps/113?lang=eng",
+        "verses": 9
+      },
+      {
+        "name": "114",
+        "url": "https://www.lds.org/scriptures/ot/ps/114?lang=eng",
+        "verses": 8
+      },
+      {
+        "name": "115",
+        "url": "https://www.lds.org/scriptures/ot/ps/115?lang=eng",
+        "verses": 18
+      },
+      {
+        "name": "116",
+        "url": "https://www.lds.org/scriptures/ot/ps/116?lang=eng",
+        "verses": 19
+      },
+      {
+        "name": "117",
+        "url": "https://www.lds.org/scriptures/ot/ps/117?lang=eng",
+        "verses": 2
+      },
+      {
+        "name": "118",
+        "url": "https://www.lds.org/scriptures/ot/ps/118?lang=eng",
+        "verses": 29
+      },
+      {
+        "name": "119",
+        "url": "https://www.lds.org/scriptures/ot/ps/119?lang=eng",
+        "verses": 176
+      },
+      {
+        "name": "120",
+        "url": "https://www.lds.org/scriptures/ot/ps/120?lang=eng",
+        "verses": 7
+      },
+      {
+        "name": "121",
+        "url": "https://www.lds.org/scriptures/ot/ps/121?lang=eng",
+        "verses": 8
+      },
+      {
+        "name": "122",
+        "url": "https://www.lds.org/scriptures/ot/ps/122?lang=eng",
+        "verses": 9
+      },
+      {
+        "name": "123",
+        "url": "https://www.lds.org/scriptures/ot/ps/123?lang=eng",
+        "verses": 4
+      },
+      {
+        "name": "124",
+        "url": "https://www.lds.org/scriptures/ot/ps/124?lang=eng",
+        "verses": 8
+      },
+      {
+        "name": "125",
+        "url": "https://www.lds.org/scriptures/ot/ps/125?lang=eng",
+        "verses": 5
+      },
+      {
+        "name": "126",
+        "url": "https://www.lds.org/scriptures/ot/ps/126?lang=eng",
+        "verses": 6
+      },
+      {
+        "name": "127",
+        "url": "https://www.lds.org/scriptures/ot/ps/127?lang=eng",
+        "verses": 5
+      },
+      {
+        "name": "128",
+        "url": "https://www.lds.org/scriptures/ot/ps/128?lang=eng",
+        "verses": 6
+      },
+      {
+        "name": "129",
+        "url": "https://www.lds.org/scriptures/ot/ps/129?lang=eng",
+        "verses": 8
+      },
+      {
+        "name": "130",
+        "url": "https://www.lds.org/scriptures/ot/ps/130?lang=eng",
+        "verses": 8
+      },
+      {
+        "name": "131",
+        "url": "https://www.lds.org/scriptures/ot/ps/131?lang=eng",
+        "verses": 3
+      },
+      {
+        "name": "132",
+        "url": "https://www.lds.org/scriptures/ot/ps/132?lang=eng",
+        "verses": 18
+      },
+      {
+        "name": "133",
+        "url": "https://www.lds.org/scriptures/ot/ps/133?lang=eng",
+        "verses": 3
+      },
+      {
+        "name": "134",
+        "url": "https://www.lds.org/scriptures/ot/ps/134?lang=eng",
+        "verses": 3
+      },
+      {
+        "name": "135",
+        "url": "https://www.lds.org/scriptures/ot/ps/135?lang=eng",
+        "verses": 21
+      },
+      {
+        "name": "136",
+        "url": "https://www.lds.org/scriptures/ot/ps/136?lang=eng",
+        "verses": 26
+      },
+      {
+        "name": "137",
+        "url": "https://www.lds.org/scriptures/ot/ps/137?lang=eng",
+        "verses": 9
+      },
+      {
+        "name": "138",
+        "url": "https://www.lds.org/scriptures/ot/ps/138?lang=eng",
+        "verses": 8
+      },
+      {
+        "name": "139",
+        "url": "https://www.lds.org/scriptures/ot/ps/139?lang=eng",
+        "verses": 24
+      },
+      {
+        "name": "140",
+        "url": "https://www.lds.org/scriptures/ot/ps/140?lang=eng",
+        "verses": 13
+      },
+      {
+        "name": "141",
+        "url": "https://www.lds.org/scriptures/ot/ps/141?lang=eng",
+        "verses": 10
+      },
+      {
+        "name": "142",
+        "url": "https://www.lds.org/scriptures/ot/ps/142?lang=eng",
+        "verses": 7
+      },
+      {
+        "name": "143",
+        "url": "https://www.lds.org/scriptures/ot/ps/143?lang=eng",
+        "verses": 12
+      },
+      {
+        "name": "144",
+        "url": "https://www.lds.org/scriptures/ot/ps/144?lang=eng",
+        "verses": 15
+      },
+      {
+        "name": "145",
+        "url": "https://www.lds.org/scriptures/ot/ps/145?lang=eng",
+        "verses": 21
+      },
+      {
+        "name": "146",
+        "url": "https://www.lds.org/scriptures/ot/ps/146?lang=eng",
+        "verses": 10
+      },
+      {
+        "name": "147",
+        "url": "https://www.lds.org/scriptures/ot/ps/147?lang=eng",
+        "verses": 20
+      },
+      {
+        "name": "148",
+        "url": "https://www.lds.org/scriptures/ot/ps/148?lang=eng",
+        "verses": 14
+      },
+      {
+        "name": "149",
+        "url": "https://www.lds.org/scriptures/ot/ps/149?lang=eng",
+        "verses": 9
+      },
+      {
+        "name": "150",
+        "url": "https://www.lds.org/scriptures/ot/ps/150?lang=eng",
+        "verses": 6
+      }
+    ]
+  },
+  {
+    "name": "Proverbs",
+    "url": "https://www.lds.org/scriptures/ot/prov?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/prov/1?lang=eng",
+        "verses": 33
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/prov/2?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/prov/3?lang=eng",
+        "verses": 35
+      },
+      {
+        "name": "4",
+        "url": "https://www.lds.org/scriptures/ot/prov/4?lang=eng",
+        "verses": 27
+      },
+      {
+        "name": "5",
+        "url": "https://www.lds.org/scriptures/ot/prov/5?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "6",
+        "url": "https://www.lds.org/scriptures/ot/prov/6?lang=eng",
+        "verses": 35
+      },
+      {
+        "name": "7",
+        "url": "https://www.lds.org/scriptures/ot/prov/7?lang=eng",
+        "verses": 27
+      },
+      {
+        "name": "8",
+        "url": "https://www.lds.org/scriptures/ot/prov/8?lang=eng",
+        "verses": 36
+      },
+      {
+        "name": "9",
+        "url": "https://www.lds.org/scriptures/ot/prov/9?lang=eng",
+        "verses": 18
+      },
+      {
+        "name": "10",
+        "url": "https://www.lds.org/scriptures/ot/prov/10?lang=eng",
+        "verses": 32
+      },
+      {
+        "name": "11",
+        "url": "https://www.lds.org/scriptures/ot/prov/11?lang=eng",
+        "verses": 31
+      },
+      {
+        "name": "12",
+        "url": "https://www.lds.org/scriptures/ot/prov/12?lang=eng",
+        "verses": 28
+      },
+      {
+        "name": "13",
+        "url": "https://www.lds.org/scriptures/ot/prov/13?lang=eng",
+        "verses": 25
+      },
+      {
+        "name": "14",
+        "url": "https://www.lds.org/scriptures/ot/prov/14?lang=eng",
+        "verses": 35
+      },
+      {
+        "name": "15",
+        "url": "https://www.lds.org/scriptures/ot/prov/15?lang=eng",
+        "verses": 33
+      },
+      {
+        "name": "16",
+        "url": "https://www.lds.org/scriptures/ot/prov/16?lang=eng",
+        "verses": 33
+      },
+      {
+        "name": "17",
+        "url": "https://www.lds.org/scriptures/ot/prov/17?lang=eng",
+        "verses": 28
+      },
+      {
+        "name": "18",
+        "url": "https://www.lds.org/scriptures/ot/prov/18?lang=eng",
+        "verses": 24
+      },
+      {
+        "name": "19",
+        "url": "https://www.lds.org/scriptures/ot/prov/19?lang=eng",
+        "verses": 29
+      },
+      {
+        "name": "20",
+        "url": "https://www.lds.org/scriptures/ot/prov/20?lang=eng",
+        "verses": 30
+      },
+      {
+        "name": "21",
+        "url": "https://www.lds.org/scriptures/ot/prov/21?lang=eng",
+        "verses": 31
+      },
+      {
+        "name": "22",
+        "url": "https://www.lds.org/scriptures/ot/prov/22?lang=eng",
+        "verses": 29
+      },
+      {
+        "name": "23",
+        "url": "https://www.lds.org/scriptures/ot/prov/23?lang=eng",
+        "verses": 35
+      },
+      {
+        "name": "24",
+        "url": "https://www.lds.org/scriptures/ot/prov/24?lang=eng",
+        "verses": 34
+      },
+      {
+        "name": "25",
+        "url": "https://www.lds.org/scriptures/ot/prov/25?lang=eng",
+        "verses": 28
+      },
+      {
+        "name": "26",
+        "url": "https://www.lds.org/scriptures/ot/prov/26?lang=eng",
+        "verses": 28
+      },
+      {
+        "name": "27",
+        "url": "https://www.lds.org/scriptures/ot/prov/27?lang=eng",
+        "verses": 27
+      },
+      {
+        "name": "28",
+        "url": "https://www.lds.org/scriptures/ot/prov/28?lang=eng",
+        "verses": 28
+      },
+      {
+        "name": "29",
+        "url": "https://www.lds.org/scriptures/ot/prov/29?lang=eng",
+        "verses": 27
+      },
+      {
+        "name": "30",
+        "url": "https://www.lds.org/scriptures/ot/prov/30?lang=eng",
+        "verses": 33
+      },
+      {
+        "name": "31",
+        "url": "https://www.lds.org/scriptures/ot/prov/31?lang=eng",
+        "verses": 31
+      }
+    ]
+  },
+  {
+    "name": "Ecclesiastes",
+    "url": "https://www.lds.org/scriptures/ot/eccl?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/eccl/1?lang=eng",
+        "verses": 18
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/eccl/2?lang=eng",
+        "verses": 26
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/eccl/3?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "4",
+        "url": "https://www.lds.org/scriptures/ot/eccl/4?lang=eng",
+        "verses": 16
+      },
+      {
+        "name": "5",
+        "url": "https://www.lds.org/scriptures/ot/eccl/5?lang=eng",
+        "verses": 20
+      },
+      {
+        "name": "6",
+        "url": "https://www.lds.org/scriptures/ot/eccl/6?lang=eng",
+        "verses": 12
+      },
+      {
+        "name": "7",
+        "url": "https://www.lds.org/scriptures/ot/eccl/7?lang=eng",
+        "verses": 29
+      },
+      {
+        "name": "8",
+        "url": "https://www.lds.org/scriptures/ot/eccl/8?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "9",
+        "url": "https://www.lds.org/scriptures/ot/eccl/9?lang=eng",
+        "verses": 18
+      },
+      {
+        "name": "10",
+        "url": "https://www.lds.org/scriptures/ot/eccl/10?lang=eng",
+        "verses": 20
+      },
+      {
+        "name": "11",
+        "url": "https://www.lds.org/scriptures/ot/eccl/11?lang=eng",
+        "verses": 10
+      },
+      {
+        "name": "12",
+        "url": "https://www.lds.org/scriptures/ot/eccl/12?lang=eng",
+        "verses": 14
+      }
+    ]
+  },
+  {
+    "name": "Song of Solomon",
+    "url": "https://www.lds.org/scriptures/ot/song?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/song/1?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/song/2?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/song/3?lang=eng",
+        "verses": 11
+      },
+      {
+        "name": "4",
+        "url": "https://www.lds.org/scriptures/ot/song/4?lang=eng",
+        "verses": 16
+      },
+      {
+        "name": "5",
+        "url": "https://www.lds.org/scriptures/ot/song/5?lang=eng",
+        "verses": 16
+      },
+      {
+        "name": "6",
+        "url": "https://www.lds.org/scriptures/ot/song/6?lang=eng",
+        "verses": 13
+      },
+      {
+        "name": "7",
+        "url": "https://www.lds.org/scriptures/ot/song/7?lang=eng",
+        "verses": 13
+      },
+      {
+        "name": "8",
+        "url": "https://www.lds.org/scriptures/ot/song/8?lang=eng",
+        "verses": 14
+      }
+    ]
+  },
+  {
+    "name": "Isaiah",
+    "url": "https://www.lds.org/scriptures/ot/isa?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/isa/1?lang=eng",
+        "verses": 31
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/isa/2?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/isa/3?lang=eng",
+        "verses": 26
+      },
+      {
+        "name": "4",
+        "url": "https://www.lds.org/scriptures/ot/isa/4?lang=eng",
+        "verses": 6
+      },
+      {
+        "name": "5",
+        "url": "https://www.lds.org/scriptures/ot/isa/5?lang=eng",
+        "verses": 30
+      },
+      {
+        "name": "6",
+        "url": "https://www.lds.org/scriptures/ot/isa/6?lang=eng",
+        "verses": 13
+      },
+      {
+        "name": "7",
+        "url": "https://www.lds.org/scriptures/ot/isa/7?lang=eng",
+        "verses": 25
+      },
+      {
+        "name": "8",
+        "url": "https://www.lds.org/scriptures/ot/isa/8?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "9",
+        "url": "https://www.lds.org/scriptures/ot/isa/9?lang=eng",
+        "verses": 21
+      },
+      {
+        "name": "10",
+        "url": "https://www.lds.org/scriptures/ot/isa/10?lang=eng",
+        "verses": 34
+      },
+      {
+        "name": "11",
+        "url": "https://www.lds.org/scriptures/ot/isa/11?lang=eng",
+        "verses": 16
+      },
+      {
+        "name": "12",
+        "url": "https://www.lds.org/scriptures/ot/isa/12?lang=eng",
+        "verses": 6
+      },
+      {
+        "name": "13",
+        "url": "https://www.lds.org/scriptures/ot/isa/13?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "14",
+        "url": "https://www.lds.org/scriptures/ot/isa/14?lang=eng",
+        "verses": 32
+      },
+      {
+        "name": "15",
+        "url": "https://www.lds.org/scriptures/ot/isa/15?lang=eng",
+        "verses": 9
+      },
+      {
+        "name": "16",
+        "url": "https://www.lds.org/scriptures/ot/isa/16?lang=eng",
+        "verses": 14
+      },
+      {
+        "name": "17",
+        "url": "https://www.lds.org/scriptures/ot/isa/17?lang=eng",
+        "verses": 14
+      },
+      {
+        "name": "18",
+        "url": "https://www.lds.org/scriptures/ot/isa/18?lang=eng",
+        "verses": 7
+      },
+      {
+        "name": "19",
+        "url": "https://www.lds.org/scriptures/ot/isa/19?lang=eng",
+        "verses": 25
+      },
+      {
+        "name": "20",
+        "url": "https://www.lds.org/scriptures/ot/isa/20?lang=eng",
+        "verses": 6
+      },
+      {
+        "name": "21",
+        "url": "https://www.lds.org/scriptures/ot/isa/21?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "22",
+        "url": "https://www.lds.org/scriptures/ot/isa/22?lang=eng",
+        "verses": 25
+      },
+      {
+        "name": "23",
+        "url": "https://www.lds.org/scriptures/ot/isa/23?lang=eng",
+        "verses": 18
+      },
+      {
+        "name": "24",
+        "url": "https://www.lds.org/scriptures/ot/isa/24?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "25",
+        "url": "https://www.lds.org/scriptures/ot/isa/25?lang=eng",
+        "verses": 12
+      },
+      {
+        "name": "26",
+        "url": "https://www.lds.org/scriptures/ot/isa/26?lang=eng",
+        "verses": 21
+      },
+      {
+        "name": "27",
+        "url": "https://www.lds.org/scriptures/ot/isa/27?lang=eng",
+        "verses": 13
+      },
+      {
+        "name": "28",
+        "url": "https://www.lds.org/scriptures/ot/isa/28?lang=eng",
+        "verses": 29
+      },
+      {
+        "name": "29",
+        "url": "https://www.lds.org/scriptures/ot/isa/29?lang=eng",
+        "verses": 24
+      },
+      {
+        "name": "30",
+        "url": "https://www.lds.org/scriptures/ot/isa/30?lang=eng",
+        "verses": 33
+      },
+      {
+        "name": "31",
+        "url": "https://www.lds.org/scriptures/ot/isa/31?lang=eng",
+        "verses": 9
+      },
+      {
+        "name": "32",
+        "url": "https://www.lds.org/scriptures/ot/isa/32?lang=eng",
+        "verses": 20
+      },
+      {
+        "name": "33",
+        "url": "https://www.lds.org/scriptures/ot/isa/33?lang=eng",
+        "verses": 24
+      },
+      {
+        "name": "34",
+        "url": "https://www.lds.org/scriptures/ot/isa/34?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "35",
+        "url": "https://www.lds.org/scriptures/ot/isa/35?lang=eng",
+        "verses": 10
+      },
+      {
+        "name": "36",
+        "url": "https://www.lds.org/scriptures/ot/isa/36?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "37",
+        "url": "https://www.lds.org/scriptures/ot/isa/37?lang=eng",
+        "verses": 38
+      },
+      {
+        "name": "38",
+        "url": "https://www.lds.org/scriptures/ot/isa/38?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "39",
+        "url": "https://www.lds.org/scriptures/ot/isa/39?lang=eng",
+        "verses": 8
+      },
+      {
+        "name": "40",
+        "url": "https://www.lds.org/scriptures/ot/isa/40?lang=eng",
+        "verses": 31
+      },
+      {
+        "name": "41",
+        "url": "https://www.lds.org/scriptures/ot/isa/41?lang=eng",
+        "verses": 29
+      },
+      {
+        "name": "42",
+        "url": "https://www.lds.org/scriptures/ot/isa/42?lang=eng",
+        "verses": 25
+      },
+      {
+        "name": "43",
+        "url": "https://www.lds.org/scriptures/ot/isa/43?lang=eng",
+        "verses": 28
+      },
+      {
+        "name": "44",
+        "url": "https://www.lds.org/scriptures/ot/isa/44?lang=eng",
+        "verses": 28
+      },
+      {
+        "name": "45",
+        "url": "https://www.lds.org/scriptures/ot/isa/45?lang=eng",
+        "verses": 25
+      },
+      {
+        "name": "46",
+        "url": "https://www.lds.org/scriptures/ot/isa/46?lang=eng",
+        "verses": 13
+      },
+      {
+        "name": "47",
+        "url": "https://www.lds.org/scriptures/ot/isa/47?lang=eng",
+        "verses": 15
+      },
+      {
+        "name": "48",
+        "url": "https://www.lds.org/scriptures/ot/isa/48?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "49",
+        "url": "https://www.lds.org/scriptures/ot/isa/49?lang=eng",
+        "verses": 26
+      },
+      {
+        "name": "50",
+        "url": "https://www.lds.org/scriptures/ot/isa/50?lang=eng",
+        "verses": 11
+      },
+      {
+        "name": "51",
+        "url": "https://www.lds.org/scriptures/ot/isa/51?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "52",
+        "url": "https://www.lds.org/scriptures/ot/isa/52?lang=eng",
+        "verses": 15
+      },
+      {
+        "name": "53",
+        "url": "https://www.lds.org/scriptures/ot/isa/53?lang=eng",
+        "verses": 12
+      },
+      {
+        "name": "54",
+        "url": "https://www.lds.org/scriptures/ot/isa/54?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "55",
+        "url": "https://www.lds.org/scriptures/ot/isa/55?lang=eng",
+        "verses": 13
+      },
+      {
+        "name": "56",
+        "url": "https://www.lds.org/scriptures/ot/isa/56?lang=eng",
+        "verses": 12
+      },
+      {
+        "name": "57",
+        "url": "https://www.lds.org/scriptures/ot/isa/57?lang=eng",
+        "verses": 21
+      },
+      {
+        "name": "58",
+        "url": "https://www.lds.org/scriptures/ot/isa/58?lang=eng",
+        "verses": 14
+      },
+      {
+        "name": "59",
+        "url": "https://www.lds.org/scriptures/ot/isa/59?lang=eng",
+        "verses": 21
+      },
+      {
+        "name": "60",
+        "url": "https://www.lds.org/scriptures/ot/isa/60?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "61",
+        "url": "https://www.lds.org/scriptures/ot/isa/61?lang=eng",
+        "verses": 11
+      },
+      {
+        "name": "62",
+        "url": "https://www.lds.org/scriptures/ot/isa/62?lang=eng",
+        "verses": 12
+      },
+      {
+        "name": "63",
+        "url": "https://www.lds.org/scriptures/ot/isa/63?lang=eng",
+        "verses": 19
+      },
+      {
+        "name": "64",
+        "url": "https://www.lds.org/scriptures/ot/isa/64?lang=eng",
+        "verses": 12
+      },
+      {
+        "name": "65",
+        "url": "https://www.lds.org/scriptures/ot/isa/65?lang=eng",
+        "verses": 25
+      },
+      {
+        "name": "66",
+        "url": "https://www.lds.org/scriptures/ot/isa/66?lang=eng",
+        "verses": 24
+      }
+    ]
+  },
+  {
+    "name": "Jeremiah",
+    "url": "https://www.lds.org/scriptures/ot/jer?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/jer/1?lang=eng",
+        "verses": 19
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/jer/2?lang=eng",
+        "verses": 37
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/jer/3?lang=eng",
+        "verses": 25
+      },
+      {
+        "name": "4",
+        "url": "https://www.lds.org/scriptures/ot/jer/4?lang=eng",
+        "verses": 31
+      },
+      {
+        "name": "5",
+        "url": "https://www.lds.org/scriptures/ot/jer/5?lang=eng",
+        "verses": 31
+      },
+      {
+        "name": "6",
+        "url": "https://www.lds.org/scriptures/ot/jer/6?lang=eng",
+        "verses": 30
+      },
+      {
+        "name": "7",
+        "url": "https://www.lds.org/scriptures/ot/jer/7?lang=eng",
+        "verses": 34
+      },
+      {
+        "name": "8",
+        "url": "https://www.lds.org/scriptures/ot/jer/8?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "9",
+        "url": "https://www.lds.org/scriptures/ot/jer/9?lang=eng",
+        "verses": 26
+      },
+      {
+        "name": "10",
+        "url": "https://www.lds.org/scriptures/ot/jer/10?lang=eng",
+        "verses": 25
+      },
+      {
+        "name": "11",
+        "url": "https://www.lds.org/scriptures/ot/jer/11?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "12",
+        "url": "https://www.lds.org/scriptures/ot/jer/12?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "13",
+        "url": "https://www.lds.org/scriptures/ot/jer/13?lang=eng",
+        "verses": 27
+      },
+      {
+        "name": "14",
+        "url": "https://www.lds.org/scriptures/ot/jer/14?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "15",
+        "url": "https://www.lds.org/scriptures/ot/jer/15?lang=eng",
+        "verses": 21
+      },
+      {
+        "name": "16",
+        "url": "https://www.lds.org/scriptures/ot/jer/16?lang=eng",
+        "verses": 21
+      },
+      {
+        "name": "17",
+        "url": "https://www.lds.org/scriptures/ot/jer/17?lang=eng",
+        "verses": 27
+      },
+      {
+        "name": "18",
+        "url": "https://www.lds.org/scriptures/ot/jer/18?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "19",
+        "url": "https://www.lds.org/scriptures/ot/jer/19?lang=eng",
+        "verses": 15
+      },
+      {
+        "name": "20",
+        "url": "https://www.lds.org/scriptures/ot/jer/20?lang=eng",
+        "verses": 18
+      },
+      {
+        "name": "21",
+        "url": "https://www.lds.org/scriptures/ot/jer/21?lang=eng",
+        "verses": 14
+      },
+      {
+        "name": "22",
+        "url": "https://www.lds.org/scriptures/ot/jer/22?lang=eng",
+        "verses": 30
+      },
+      {
+        "name": "23",
+        "url": "https://www.lds.org/scriptures/ot/jer/23?lang=eng",
+        "verses": 40
+      },
+      {
+        "name": "24",
+        "url": "https://www.lds.org/scriptures/ot/jer/24?lang=eng",
+        "verses": 10
+      },
+      {
+        "name": "25",
+        "url": "https://www.lds.org/scriptures/ot/jer/25?lang=eng",
+        "verses": 38
+      },
+      {
+        "name": "26",
+        "url": "https://www.lds.org/scriptures/ot/jer/26?lang=eng",
+        "verses": 24
+      },
+      {
+        "name": "27",
+        "url": "https://www.lds.org/scriptures/ot/jer/27?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "28",
+        "url": "https://www.lds.org/scriptures/ot/jer/28?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "29",
+        "url": "https://www.lds.org/scriptures/ot/jer/29?lang=eng",
+        "verses": 32
+      },
+      {
+        "name": "30",
+        "url": "https://www.lds.org/scriptures/ot/jer/30?lang=eng",
+        "verses": 24
+      },
+      {
+        "name": "31",
+        "url": "https://www.lds.org/scriptures/ot/jer/31?lang=eng",
+        "verses": 40
+      },
+      {
+        "name": "32",
+        "url": "https://www.lds.org/scriptures/ot/jer/32?lang=eng",
+        "verses": 44
+      },
+      {
+        "name": "33",
+        "url": "https://www.lds.org/scriptures/ot/jer/33?lang=eng",
+        "verses": 26
+      },
+      {
+        "name": "34",
+        "url": "https://www.lds.org/scriptures/ot/jer/34?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "35",
+        "url": "https://www.lds.org/scriptures/ot/jer/35?lang=eng",
+        "verses": 19
+      },
+      {
+        "name": "36",
+        "url": "https://www.lds.org/scriptures/ot/jer/36?lang=eng",
+        "verses": 32
+      },
+      {
+        "name": "37",
+        "url": "https://www.lds.org/scriptures/ot/jer/37?lang=eng",
+        "verses": 21
+      },
+      {
+        "name": "38",
+        "url": "https://www.lds.org/scriptures/ot/jer/38?lang=eng",
+        "verses": 28
+      },
+      {
+        "name": "39",
+        "url": "https://www.lds.org/scriptures/ot/jer/39?lang=eng",
+        "verses": 18
+      },
+      {
+        "name": "40",
+        "url": "https://www.lds.org/scriptures/ot/jer/40?lang=eng",
+        "verses": 16
+      },
+      {
+        "name": "41",
+        "url": "https://www.lds.org/scriptures/ot/jer/41?lang=eng",
+        "verses": 18
+      },
+      {
+        "name": "42",
+        "url": "https://www.lds.org/scriptures/ot/jer/42?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "43",
+        "url": "https://www.lds.org/scriptures/ot/jer/43?lang=eng",
+        "verses": 13
+      },
+      {
+        "name": "44",
+        "url": "https://www.lds.org/scriptures/ot/jer/44?lang=eng",
+        "verses": 30
+      },
+      {
+        "name": "45",
+        "url": "https://www.lds.org/scriptures/ot/jer/45?lang=eng",
+        "verses": 5
+      },
+      {
+        "name": "46",
+        "url": "https://www.lds.org/scriptures/ot/jer/46?lang=eng",
+        "verses": 28
+      },
+      {
+        "name": "47",
+        "url": "https://www.lds.org/scriptures/ot/jer/47?lang=eng",
+        "verses": 7
+      },
+      {
+        "name": "48",
+        "url": "https://www.lds.org/scriptures/ot/jer/48?lang=eng",
+        "verses": 47
+      },
+      {
+        "name": "49",
+        "url": "https://www.lds.org/scriptures/ot/jer/49?lang=eng",
+        "verses": 39
+      },
+      {
+        "name": "50",
+        "url": "https://www.lds.org/scriptures/ot/jer/50?lang=eng",
+        "verses": 46
+      },
+      {
+        "name": "51",
+        "url": "https://www.lds.org/scriptures/ot/jer/51?lang=eng",
+        "verses": 64
+      },
+      {
+        "name": "52",
+        "url": "https://www.lds.org/scriptures/ot/jer/52?lang=eng",
+        "verses": 34
+      }
+    ]
+  },
+  {
+    "name": "Lamentations",
+    "url": "https://www.lds.org/scriptures/ot/lam?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/lam/1?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/lam/2?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/lam/3?lang=eng",
+        "verses": 66
+      },
+      {
+        "name": "4",
+        "url": "https://www.lds.org/scriptures/ot/lam/4?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "5",
+        "url": "https://www.lds.org/scriptures/ot/lam/5?lang=eng",
+        "verses": 22
+      }
+    ]
+  },
+  {
+    "name": "Ezekiel",
+    "url": "https://www.lds.org/scriptures/ot/ezek?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/ezek/1?lang=eng",
+        "verses": 28
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/ezek/2?lang=eng",
+        "verses": 10
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/ezek/3?lang=eng",
+        "verses": 27
+      },
+      {
+        "name": "4",
+        "url": "https://www.lds.org/scriptures/ot/ezek/4?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "5",
+        "url": "https://www.lds.org/scriptures/ot/ezek/5?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "6",
+        "url": "https://www.lds.org/scriptures/ot/ezek/6?lang=eng",
+        "verses": 14
+      },
+      {
+        "name": "7",
+        "url": "https://www.lds.org/scriptures/ot/ezek/7?lang=eng",
+        "verses": 27
+      },
+      {
+        "name": "8",
+        "url": "https://www.lds.org/scriptures/ot/ezek/8?lang=eng",
+        "verses": 18
+      },
+      {
+        "name": "9",
+        "url": "https://www.lds.org/scriptures/ot/ezek/9?lang=eng",
+        "verses": 11
+      },
+      {
+        "name": "10",
+        "url": "https://www.lds.org/scriptures/ot/ezek/10?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "11",
+        "url": "https://www.lds.org/scriptures/ot/ezek/11?lang=eng",
+        "verses": 25
+      },
+      {
+        "name": "12",
+        "url": "https://www.lds.org/scriptures/ot/ezek/12?lang=eng",
+        "verses": 28
+      },
+      {
+        "name": "13",
+        "url": "https://www.lds.org/scriptures/ot/ezek/13?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "14",
+        "url": "https://www.lds.org/scriptures/ot/ezek/14?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "15",
+        "url": "https://www.lds.org/scriptures/ot/ezek/15?lang=eng",
+        "verses": 8
+      },
+      {
+        "name": "16",
+        "url": "https://www.lds.org/scriptures/ot/ezek/16?lang=eng",
+        "verses": 63
+      },
+      {
+        "name": "17",
+        "url": "https://www.lds.org/scriptures/ot/ezek/17?lang=eng",
+        "verses": 24
+      },
+      {
+        "name": "18",
+        "url": "https://www.lds.org/scriptures/ot/ezek/18?lang=eng",
+        "verses": 32
+      },
+      {
+        "name": "19",
+        "url": "https://www.lds.org/scriptures/ot/ezek/19?lang=eng",
+        "verses": 14
+      },
+      {
+        "name": "20",
+        "url": "https://www.lds.org/scriptures/ot/ezek/20?lang=eng",
+        "verses": 49
+      },
+      {
+        "name": "21",
+        "url": "https://www.lds.org/scriptures/ot/ezek/21?lang=eng",
+        "verses": 32
+      },
+      {
+        "name": "22",
+        "url": "https://www.lds.org/scriptures/ot/ezek/22?lang=eng",
+        "verses": 31
+      },
+      {
+        "name": "23",
+        "url": "https://www.lds.org/scriptures/ot/ezek/23?lang=eng",
+        "verses": 49
+      },
+      {
+        "name": "24",
+        "url": "https://www.lds.org/scriptures/ot/ezek/24?lang=eng",
+        "verses": 27
+      },
+      {
+        "name": "25",
+        "url": "https://www.lds.org/scriptures/ot/ezek/25?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "26",
+        "url": "https://www.lds.org/scriptures/ot/ezek/26?lang=eng",
+        "verses": 21
+      },
+      {
+        "name": "27",
+        "url": "https://www.lds.org/scriptures/ot/ezek/27?lang=eng",
+        "verses": 36
+      },
+      {
+        "name": "28",
+        "url": "https://www.lds.org/scriptures/ot/ezek/28?lang=eng",
+        "verses": 26
+      },
+      {
+        "name": "29",
+        "url": "https://www.lds.org/scriptures/ot/ezek/29?lang=eng",
+        "verses": 21
+      },
+      {
+        "name": "30",
+        "url": "https://www.lds.org/scriptures/ot/ezek/30?lang=eng",
+        "verses": 26
+      },
+      {
+        "name": "31",
+        "url": "https://www.lds.org/scriptures/ot/ezek/31?lang=eng",
+        "verses": 18
+      },
+      {
+        "name": "32",
+        "url": "https://www.lds.org/scriptures/ot/ezek/32?lang=eng",
+        "verses": 32
+      },
+      {
+        "name": "33",
+        "url": "https://www.lds.org/scriptures/ot/ezek/33?lang=eng",
+        "verses": 33
+      },
+      {
+        "name": "34",
+        "url": "https://www.lds.org/scriptures/ot/ezek/34?lang=eng",
+        "verses": 31
+      },
+      {
+        "name": "35",
+        "url": "https://www.lds.org/scriptures/ot/ezek/35?lang=eng",
+        "verses": 15
+      },
+      {
+        "name": "36",
+        "url": "https://www.lds.org/scriptures/ot/ezek/36?lang=eng",
+        "verses": 38
+      },
+      {
+        "name": "37",
+        "url": "https://www.lds.org/scriptures/ot/ezek/37?lang=eng",
+        "verses": 28
+      },
+      {
+        "name": "38",
+        "url": "https://www.lds.org/scriptures/ot/ezek/38?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "39",
+        "url": "https://www.lds.org/scriptures/ot/ezek/39?lang=eng",
+        "verses": 29
+      },
+      {
+        "name": "40",
+        "url": "https://www.lds.org/scriptures/ot/ezek/40?lang=eng",
+        "verses": 49
+      },
+      {
+        "name": "41",
+        "url": "https://www.lds.org/scriptures/ot/ezek/41?lang=eng",
+        "verses": 26
+      },
+      {
+        "name": "42",
+        "url": "https://www.lds.org/scriptures/ot/ezek/42?lang=eng",
+        "verses": 20
+      },
+      {
+        "name": "43",
+        "url": "https://www.lds.org/scriptures/ot/ezek/43?lang=eng",
+        "verses": 27
+      },
+      {
+        "name": "44",
+        "url": "https://www.lds.org/scriptures/ot/ezek/44?lang=eng",
+        "verses": 31
+      },
+      {
+        "name": "45",
+        "url": "https://www.lds.org/scriptures/ot/ezek/45?lang=eng",
+        "verses": 25
+      },
+      {
+        "name": "46",
+        "url": "https://www.lds.org/scriptures/ot/ezek/46?lang=eng",
+        "verses": 24
+      },
+      {
+        "name": "47",
+        "url": "https://www.lds.org/scriptures/ot/ezek/47?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "48",
+        "url": "https://www.lds.org/scriptures/ot/ezek/48?lang=eng",
+        "verses": 35
+      }
+    ]
+  },
+  {
+    "name": "Daniel",
+    "url": "https://www.lds.org/scriptures/ot/dan?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/dan/1?lang=eng",
+        "verses": 21
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/dan/2?lang=eng",
+        "verses": 49
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/dan/3?lang=eng",
+        "verses": 30
+      },
+      {
+        "name": "4",
+        "url": "https://www.lds.org/scriptures/ot/dan/4?lang=eng",
+        "verses": 37
+      },
+      {
+        "name": "5",
+        "url": "https://www.lds.org/scriptures/ot/dan/5?lang=eng",
+        "verses": 31
+      },
+      {
+        "name": "6",
+        "url": "https://www.lds.org/scriptures/ot/dan/6?lang=eng",
+        "verses": 28
+      },
+      {
+        "name": "7",
+        "url": "https://www.lds.org/scriptures/ot/dan/7?lang=eng",
+        "verses": 28
+      },
+      {
+        "name": "8",
+        "url": "https://www.lds.org/scriptures/ot/dan/8?lang=eng",
+        "verses": 27
+      },
+      {
+        "name": "9",
+        "url": "https://www.lds.org/scriptures/ot/dan/9?lang=eng",
+        "verses": 27
+      },
+      {
+        "name": "10",
+        "url": "https://www.lds.org/scriptures/ot/dan/10?lang=eng",
+        "verses": 21
+      },
+      {
+        "name": "11",
+        "url": "https://www.lds.org/scriptures/ot/dan/11?lang=eng",
+        "verses": 45
+      },
+      {
+        "name": "12",
+        "url": "https://www.lds.org/scriptures/ot/dan/12?lang=eng",
+        "verses": 13
+      }
+    ]
+  },
+  {
+    "name": "Hosea",
+    "url": "https://www.lds.org/scriptures/ot/hosea?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/hosea/1?lang=eng",
+        "verses": 11
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/hosea/2?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/hosea/3?lang=eng",
+        "verses": 5
+      },
+      {
+        "name": "4",
+        "url": "https://www.lds.org/scriptures/ot/hosea/4?lang=eng",
+        "verses": 19
+      },
+      {
+        "name": "5",
+        "url": "https://www.lds.org/scriptures/ot/hosea/5?lang=eng",
+        "verses": 15
+      },
+      {
+        "name": "6",
+        "url": "https://www.lds.org/scriptures/ot/hosea/6?lang=eng",
+        "verses": 11
+      },
+      {
+        "name": "7",
+        "url": "https://www.lds.org/scriptures/ot/hosea/7?lang=eng",
+        "verses": 16
+      },
+      {
+        "name": "8",
+        "url": "https://www.lds.org/scriptures/ot/hosea/8?lang=eng",
+        "verses": 14
+      },
+      {
+        "name": "9",
+        "url": "https://www.lds.org/scriptures/ot/hosea/9?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "10",
+        "url": "https://www.lds.org/scriptures/ot/hosea/10?lang=eng",
+        "verses": 15
+      },
+      {
+        "name": "11",
+        "url": "https://www.lds.org/scriptures/ot/hosea/11?lang=eng",
+        "verses": 12
+      },
+      {
+        "name": "12",
+        "url": "https://www.lds.org/scriptures/ot/hosea/12?lang=eng",
+        "verses": 14
+      },
+      {
+        "name": "13",
+        "url": "https://www.lds.org/scriptures/ot/hosea/13?lang=eng",
+        "verses": 16
+      },
+      {
+        "name": "14",
+        "url": "https://www.lds.org/scriptures/ot/hosea/14?lang=eng",
+        "verses": 9
+      }
+    ]
+  },
+  {
+    "name": "Joel",
+    "url": "https://www.lds.org/scriptures/ot/joel?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/joel/1?lang=eng",
+        "verses": 20
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/joel/2?lang=eng",
+        "verses": 32
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/joel/3?lang=eng",
+        "verses": 21
+      }
+    ]
+  },
+  {
+    "name": "Amos",
+    "url": "https://www.lds.org/scriptures/ot/amos?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/amos/1?lang=eng",
+        "verses": 15
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/amos/2?lang=eng",
+        "verses": 16
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/amos/3?lang=eng",
+        "verses": 15
+      },
+      {
+        "name": "4",
+        "url": "https://www.lds.org/scriptures/ot/amos/4?lang=eng",
+        "verses": 13
+      },
+      {
+        "name": "5",
+        "url": "https://www.lds.org/scriptures/ot/amos/5?lang=eng",
+        "verses": 27
+      },
+      {
+        "name": "6",
+        "url": "https://www.lds.org/scriptures/ot/amos/6?lang=eng",
+        "verses": 14
+      },
+      {
+        "name": "7",
+        "url": "https://www.lds.org/scriptures/ot/amos/7?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "8",
+        "url": "https://www.lds.org/scriptures/ot/amos/8?lang=eng",
+        "verses": 14
+      },
+      {
+        "name": "9",
+        "url": "https://www.lds.org/scriptures/ot/amos/9?lang=eng",
+        "verses": 15
+      }
+    ]
+  },
+  {
+    "name": "Obadiah",
+    "url": "https://www.lds.org/scriptures/ot/obad?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/obad?lang=eng",
+        "verses": 21
+      }
+    ]
+  },
+  {
+    "name": "Jonah",
+    "url": "https://www.lds.org/scriptures/ot/jonah?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/jonah/1?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/jonah/2?lang=eng",
+        "verses": 10
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/jonah/3?lang=eng",
+        "verses": 10
+      },
+      {
+        "name": "4",
+        "url": "https://www.lds.org/scriptures/ot/jonah/4?lang=eng",
+        "verses": 11
+      }
+    ]
+  },
+  {
+    "name": "Micah",
+    "url": "https://www.lds.org/scriptures/ot/micah?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/micah/1?lang=eng",
+        "verses": 16
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/micah/2?lang=eng",
+        "verses": 13
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/micah/3?lang=eng",
+        "verses": 12
+      },
+      {
+        "name": "4",
+        "url": "https://www.lds.org/scriptures/ot/micah/4?lang=eng",
+        "verses": 13
+      },
+      {
+        "name": "5",
+        "url": "https://www.lds.org/scriptures/ot/micah/5?lang=eng",
+        "verses": 15
+      },
+      {
+        "name": "6",
+        "url": "https://www.lds.org/scriptures/ot/micah/6?lang=eng",
+        "verses": 16
+      },
+      {
+        "name": "7",
+        "url": "https://www.lds.org/scriptures/ot/micah/7?lang=eng",
+        "verses": 20
+      }
+    ]
+  },
+  {
+    "name": "Nahum",
+    "url": "https://www.lds.org/scriptures/ot/nahum?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/nahum/1?lang=eng",
+        "verses": 15
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/nahum/2?lang=eng",
+        "verses": 13
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/nahum/3?lang=eng",
+        "verses": 19
+      }
+    ]
+  },
+  {
+    "name": "Habakkuk",
+    "url": "https://www.lds.org/scriptures/ot/hab?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/hab/1?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/hab/2?lang=eng",
+        "verses": 20
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/hab/3?lang=eng",
+        "verses": 19
+      }
+    ]
+  },
+  {
+    "name": "Zephaniah",
+    "url": "https://www.lds.org/scriptures/ot/zeph?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/zeph/1?lang=eng",
+        "verses": 18
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/zeph/2?lang=eng",
+        "verses": 15
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/zeph/3?lang=eng",
+        "verses": 20
+      }
+    ]
+  },
+  {
+    "name": "Haggai",
+    "url": "https://www.lds.org/scriptures/ot/hag?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/hag/1?lang=eng",
+        "verses": 15
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/hag/2?lang=eng",
+        "verses": 23
+      }
+    ]
+  },
+  {
+    "name": "Zechariah",
+    "url": "https://www.lds.org/scriptures/ot/zech?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/zech/1?lang=eng",
+        "verses": 21
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/zech/2?lang=eng",
+        "verses": 13
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/zech/3?lang=eng",
+        "verses": 10
+      },
+      {
+        "name": "4",
+        "url": "https://www.lds.org/scriptures/ot/zech/4?lang=eng",
+        "verses": 14
+      },
+      {
+        "name": "5",
+        "url": "https://www.lds.org/scriptures/ot/zech/5?lang=eng",
+        "verses": 11
+      },
+      {
+        "name": "6",
+        "url": "https://www.lds.org/scriptures/ot/zech/6?lang=eng",
+        "verses": 15
+      },
+      {
+        "name": "7",
+        "url": "https://www.lds.org/scriptures/ot/zech/7?lang=eng",
+        "verses": 14
+      },
+      {
+        "name": "8",
+        "url": "https://www.lds.org/scriptures/ot/zech/8?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "9",
+        "url": "https://www.lds.org/scriptures/ot/zech/9?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "10",
+        "url": "https://www.lds.org/scriptures/ot/zech/10?lang=eng",
+        "verses": 12
+      },
+      {
+        "name": "11",
+        "url": "https://www.lds.org/scriptures/ot/zech/11?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "12",
+        "url": "https://www.lds.org/scriptures/ot/zech/12?lang=eng",
+        "verses": 14
+      },
+      {
+        "name": "13",
+        "url": "https://www.lds.org/scriptures/ot/zech/13?lang=eng",
+        "verses": 9
+      },
+      {
+        "name": "14",
+        "url": "https://www.lds.org/scriptures/ot/zech/14?lang=eng",
+        "verses": 21
+      }
+    ]
+  },
+  {
+    "name": "Malachi",
+    "url": "https://www.lds.org/scriptures/ot/mal?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/ot/mal/1?lang=eng",
+        "verses": 14
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/ot/mal/2?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/ot/mal/3?lang=eng",
+        "verses": 18
+      },
+      {
+        "name": "4",
+        "url": "https://www.lds.org/scriptures/ot/mal/4?lang=eng",
+        "verses": 6
+      }
+    ]
+  }
+]

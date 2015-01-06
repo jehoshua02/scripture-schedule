@@ -1,0 +1,714 @@
+[
+  {
+    "name": "Sections",
+    "url": "https://www.lds.org/scriptures/dc-testament/dc?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/1?lang=eng",
+        "verses": 39
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/2?lang=eng",
+        "verses": 3
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/3?lang=eng",
+        "verses": 20
+      },
+      {
+        "name": "4",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/4?lang=eng",
+        "verses": 7
+      },
+      {
+        "name": "5",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/5?lang=eng",
+        "verses": 35
+      },
+      {
+        "name": "6",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/6?lang=eng",
+        "verses": 37
+      },
+      {
+        "name": "7",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/7?lang=eng",
+        "verses": 8
+      },
+      {
+        "name": "8",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/8?lang=eng",
+        "verses": 12
+      },
+      {
+        "name": "9",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/9?lang=eng",
+        "verses": 14
+      },
+      {
+        "name": "10",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/10?lang=eng",
+        "verses": 70
+      },
+      {
+        "name": "11",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/11?lang=eng",
+        "verses": 30
+      },
+      {
+        "name": "12",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/12?lang=eng",
+        "verses": 9
+      },
+      {
+        "name": "13",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/13?lang=eng",
+        "verses": 1
+      },
+      {
+        "name": "14",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/14?lang=eng",
+        "verses": 11
+      },
+      {
+        "name": "15",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/15?lang=eng",
+        "verses": 6
+      },
+      {
+        "name": "16",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/16?lang=eng",
+        "verses": 6
+      },
+      {
+        "name": "17",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/17?lang=eng",
+        "verses": 9
+      },
+      {
+        "name": "18",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/18?lang=eng",
+        "verses": 47
+      },
+      {
+        "name": "19",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/19?lang=eng",
+        "verses": 41
+      },
+      {
+        "name": "20",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/20?lang=eng",
+        "verses": 84
+      },
+      {
+        "name": "21",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/21?lang=eng",
+        "verses": 12
+      },
+      {
+        "name": "22",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/22?lang=eng",
+        "verses": 4
+      },
+      {
+        "name": "23",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/23?lang=eng",
+        "verses": 7
+      },
+      {
+        "name": "24",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/24?lang=eng",
+        "verses": 19
+      },
+      {
+        "name": "25",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/25?lang=eng",
+        "verses": 16
+      },
+      {
+        "name": "26",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/26?lang=eng",
+        "verses": 2
+      },
+      {
+        "name": "27",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/27?lang=eng",
+        "verses": 18
+      },
+      {
+        "name": "28",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/28?lang=eng",
+        "verses": 16
+      },
+      {
+        "name": "29",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/29?lang=eng",
+        "verses": 50
+      },
+      {
+        "name": "30",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/30?lang=eng",
+        "verses": 11
+      },
+      {
+        "name": "31",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/31?lang=eng",
+        "verses": 13
+      },
+      {
+        "name": "32",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/32?lang=eng",
+        "verses": 5
+      },
+      {
+        "name": "33",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/33?lang=eng",
+        "verses": 18
+      },
+      {
+        "name": "34",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/34?lang=eng",
+        "verses": 12
+      },
+      {
+        "name": "35",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/35?lang=eng",
+        "verses": 27
+      },
+      {
+        "name": "36",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/36?lang=eng",
+        "verses": 8
+      },
+      {
+        "name": "37",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/37?lang=eng",
+        "verses": 4
+      },
+      {
+        "name": "38",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/38?lang=eng",
+        "verses": 42
+      },
+      {
+        "name": "39",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/39?lang=eng",
+        "verses": 24
+      },
+      {
+        "name": "40",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/40?lang=eng",
+        "verses": 3
+      },
+      {
+        "name": "41",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/41?lang=eng",
+        "verses": 12
+      },
+      {
+        "name": "42",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/42?lang=eng",
+        "verses": 93
+      },
+      {
+        "name": "43",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/43?lang=eng",
+        "verses": 35
+      },
+      {
+        "name": "44",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/44?lang=eng",
+        "verses": 6
+      },
+      {
+        "name": "45",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/45?lang=eng",
+        "verses": 75
+      },
+      {
+        "name": "46",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/46?lang=eng",
+        "verses": 33
+      },
+      {
+        "name": "47",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/47?lang=eng",
+        "verses": 4
+      },
+      {
+        "name": "48",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/48?lang=eng",
+        "verses": 6
+      },
+      {
+        "name": "49",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/49?lang=eng",
+        "verses": 28
+      },
+      {
+        "name": "50",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/50?lang=eng",
+        "verses": 46
+      },
+      {
+        "name": "51",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/51?lang=eng",
+        "verses": 20
+      },
+      {
+        "name": "52",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/52?lang=eng",
+        "verses": 44
+      },
+      {
+        "name": "53",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/53?lang=eng",
+        "verses": 7
+      },
+      {
+        "name": "54",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/54?lang=eng",
+        "verses": 10
+      },
+      {
+        "name": "55",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/55?lang=eng",
+        "verses": 6
+      },
+      {
+        "name": "56",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/56?lang=eng",
+        "verses": 20
+      },
+      {
+        "name": "57",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/57?lang=eng",
+        "verses": 16
+      },
+      {
+        "name": "58",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/58?lang=eng",
+        "verses": 65
+      },
+      {
+        "name": "59",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/59?lang=eng",
+        "verses": 24
+      },
+      {
+        "name": "60",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/60?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "61",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/61?lang=eng",
+        "verses": 39
+      },
+      {
+        "name": "62",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/62?lang=eng",
+        "verses": 9
+      },
+      {
+        "name": "63",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/63?lang=eng",
+        "verses": 66
+      },
+      {
+        "name": "64",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/64?lang=eng",
+        "verses": 43
+      },
+      {
+        "name": "65",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/65?lang=eng",
+        "verses": 6
+      },
+      {
+        "name": "66",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/66?lang=eng",
+        "verses": 13
+      },
+      {
+        "name": "67",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/67?lang=eng",
+        "verses": 14
+      },
+      {
+        "name": "68",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/68?lang=eng",
+        "verses": 35
+      },
+      {
+        "name": "69",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/69?lang=eng",
+        "verses": 8
+      },
+      {
+        "name": "70",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/70?lang=eng",
+        "verses": 18
+      },
+      {
+        "name": "71",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/71?lang=eng",
+        "verses": 11
+      },
+      {
+        "name": "72",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/72?lang=eng",
+        "verses": 26
+      },
+      {
+        "name": "73",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/73?lang=eng",
+        "verses": 6
+      },
+      {
+        "name": "74",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/74?lang=eng",
+        "verses": 7
+      },
+      {
+        "name": "75",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/75?lang=eng",
+        "verses": 36
+      },
+      {
+        "name": "76",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/76?lang=eng",
+        "verses": 119
+      },
+      {
+        "name": "77",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/77?lang=eng",
+        "verses": 15
+      },
+      {
+        "name": "78",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/78?lang=eng",
+        "verses": 22
+      },
+      {
+        "name": "79",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/79?lang=eng",
+        "verses": 4
+      },
+      {
+        "name": "80",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/80?lang=eng",
+        "verses": 5
+      },
+      {
+        "name": "81",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/81?lang=eng",
+        "verses": 7
+      },
+      {
+        "name": "82",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/82?lang=eng",
+        "verses": 24
+      },
+      {
+        "name": "83",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/83?lang=eng",
+        "verses": 6
+      },
+      {
+        "name": "84",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/84?lang=eng",
+        "verses": 120
+      },
+      {
+        "name": "85",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/85?lang=eng",
+        "verses": 12
+      },
+      {
+        "name": "86",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/86?lang=eng",
+        "verses": 11
+      },
+      {
+        "name": "87",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/87?lang=eng",
+        "verses": 8
+      },
+      {
+        "name": "88",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/88?lang=eng",
+        "verses": 141
+      },
+      {
+        "name": "89",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/89?lang=eng",
+        "verses": 21
+      },
+      {
+        "name": "90",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/90?lang=eng",
+        "verses": 37
+      },
+      {
+        "name": "91",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/91?lang=eng",
+        "verses": 6
+      },
+      {
+        "name": "92",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/92?lang=eng",
+        "verses": 2
+      },
+      {
+        "name": "93",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/93?lang=eng",
+        "verses": 53
+      },
+      {
+        "name": "94",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/94?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "95",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/95?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "96",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/96?lang=eng",
+        "verses": 9
+      },
+      {
+        "name": "97",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/97?lang=eng",
+        "verses": 28
+      },
+      {
+        "name": "98",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/98?lang=eng",
+        "verses": 48
+      },
+      {
+        "name": "99",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/99?lang=eng",
+        "verses": 8
+      },
+      {
+        "name": "100",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/100?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "101",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/101?lang=eng",
+        "verses": 101
+      },
+      {
+        "name": "102",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/102?lang=eng",
+        "verses": 34
+      },
+      {
+        "name": "103",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/103?lang=eng",
+        "verses": 40
+      },
+      {
+        "name": "104",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/104?lang=eng",
+        "verses": 86
+      },
+      {
+        "name": "105",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/105?lang=eng",
+        "verses": 41
+      },
+      {
+        "name": "106",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/106?lang=eng",
+        "verses": 8
+      },
+      {
+        "name": "107",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/107?lang=eng",
+        "verses": 100
+      },
+      {
+        "name": "108",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/108?lang=eng",
+        "verses": 8
+      },
+      {
+        "name": "109",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/109?lang=eng",
+        "verses": 80
+      },
+      {
+        "name": "110",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/110?lang=eng",
+        "verses": 16
+      },
+      {
+        "name": "111",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/111?lang=eng",
+        "verses": 11
+      },
+      {
+        "name": "112",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/112?lang=eng",
+        "verses": 34
+      },
+      {
+        "name": "113",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/113?lang=eng",
+        "verses": 10
+      },
+      {
+        "name": "114",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/114?lang=eng",
+        "verses": 2
+      },
+      {
+        "name": "115",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/115?lang=eng",
+        "verses": 19
+      },
+      {
+        "name": "116",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/116?lang=eng",
+        "verses": 1
+      },
+      {
+        "name": "117",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/117?lang=eng",
+        "verses": 16
+      },
+      {
+        "name": "118",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/118?lang=eng",
+        "verses": 6
+      },
+      {
+        "name": "119",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/119?lang=eng",
+        "verses": 7
+      },
+      {
+        "name": "120",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/120?lang=eng",
+        "verses": 1
+      },
+      {
+        "name": "121",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/121?lang=eng",
+        "verses": 46
+      },
+      {
+        "name": "122",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/122?lang=eng",
+        "verses": 9
+      },
+      {
+        "name": "123",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/123?lang=eng",
+        "verses": 17
+      },
+      {
+        "name": "124",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/124?lang=eng",
+        "verses": 145
+      },
+      {
+        "name": "125",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/125?lang=eng",
+        "verses": 4
+      },
+      {
+        "name": "126",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/126?lang=eng",
+        "verses": 3
+      },
+      {
+        "name": "127",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/127?lang=eng",
+        "verses": 12
+      },
+      {
+        "name": "128",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/128?lang=eng",
+        "verses": 25
+      },
+      {
+        "name": "129",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/129?lang=eng",
+        "verses": 9
+      },
+      {
+        "name": "130",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/130?lang=eng",
+        "verses": 23
+      },
+      {
+        "name": "131",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/131?lang=eng",
+        "verses": 8
+      },
+      {
+        "name": "132",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/132?lang=eng",
+        "verses": 66
+      },
+      {
+        "name": "133",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/133?lang=eng",
+        "verses": 74
+      },
+      {
+        "name": "134",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/134?lang=eng",
+        "verses": 12
+      },
+      {
+        "name": "135",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/135?lang=eng",
+        "verses": 7
+      },
+      {
+        "name": "136",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/136?lang=eng",
+        "verses": 42
+      },
+      {
+        "name": "137",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/137?lang=eng",
+        "verses": 10
+      },
+      {
+        "name": "138",
+        "url": "https://www.lds.org/scriptures/dc-testament/dc/138?lang=eng",
+        "verses": 60
+      }
+    ]
+  },
+  {
+    "name": "Official Declarations",
+    "url": "https://www.lds.org/scriptures/dc-testament/od?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/dc-testament/od/1?lang=eng",
+        "verses": 0
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/dc-testament/od/2?lang=eng",
+        "verses": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "name": "Moses",
+    "url": "https://www.lds.org/scriptures/pgp/moses?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/pgp/moses/1?lang=eng",
+        "verses": 42
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/pgp/moses/2?lang=eng",
+        "verses": 31
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/pgp/moses/3?lang=eng",
+        "verses": 25
+      },
+      {
+        "name": "4",
+        "url": "https://www.lds.org/scriptures/pgp/moses/4?lang=eng",
+        "verses": 32
+      },
+      {
+        "name": "5",
+        "url": "https://www.lds.org/scriptures/pgp/moses/5?lang=eng",
+        "verses": 59
+      },
+      {
+        "name": "6",
+        "url": "https://www.lds.org/scriptures/pgp/moses/6?lang=eng",
+        "verses": 68
+      },
+      {
+        "name": "7",
+        "url": "https://www.lds.org/scriptures/pgp/moses/7?lang=eng",
+        "verses": 69
+      },
+      {
+        "name": "8",
+        "url": "https://www.lds.org/scriptures/pgp/moses/8?lang=eng",
+        "verses": 30
+      }
+    ]
+  },
+  {
+    "name": "Abraham",
+    "url": "https://www.lds.org/scriptures/pgp/abr?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/pgp/abr/1?lang=eng",
+        "verses": 31
+      },
+      {
+        "name": "2",
+        "url": "https://www.lds.org/scriptures/pgp/abr/2?lang=eng",
+        "verses": 25
+      },
+      {
+        "name": "3",
+        "url": "https://www.lds.org/scriptures/pgp/abr/3?lang=eng",
+        "verses": 28
+      },
+      {
+        "name": "4",
+        "url": "https://www.lds.org/scriptures/pgp/abr/4?lang=eng",
+        "verses": 31
+      },
+      {
+        "name": "5",
+        "url": "https://www.lds.org/scriptures/pgp/abr/5?lang=eng",
+        "verses": 21
+      }
+    ]
+  },
+  {
+    "name": "Facsimile 1",
+    "url": "https://www.lds.org/scriptures/pgp/abr/fac-1?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/pgp/abr/fac-1?lang=eng",
+        "verses": 0
+      }
+    ]
+  },
+  {
+    "name": "Facsimile 2",
+    "url": "https://www.lds.org/scriptures/pgp/abr/fac-2?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/pgp/abr/fac-2?lang=eng",
+        "verses": 0
+      }
+    ]
+  },
+  {
+    "name": "Facsimile 3",
+    "url": "https://www.lds.org/scriptures/pgp/abr/fac-3?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/pgp/abr/fac-3?lang=eng",
+        "verses": 0
+      }
+    ]
+  },
+  {
+    "name": "Joseph Smith—Matthew",
+    "url": "https://www.lds.org/scriptures/pgp/js-m/1?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/pgp/js-m/1?lang=eng",
+        "verses": 55
+      }
+    ]
+  },
+  {
+    "name": "Joseph Smith—History",
+    "url": "https://www.lds.org/scriptures/pgp/js-h/1?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/pgp/js-h/1?lang=eng",
+        "verses": 75
+      }
+    ]
+  },
+  {
+    "name": "Articles of Faith",
+    "url": "https://www.lds.org/scriptures/pgp/a-of-f/1?lang=eng",
+    "chapters": [
+      {
+        "name": "1",
+        "url": "https://www.lds.org/scriptures/pgp/a-of-f/1?lang=eng",
+        "verses": 13
+      }
+    ]
+  }
+]

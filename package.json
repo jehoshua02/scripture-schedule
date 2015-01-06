@@ -10,8 +10,10 @@
   "license": "ISC",
   "devDependencies": {
     "cheerio": "^0.18.0",
+    "jsonfile": "^2.0.0",
     "moment": "^2.8.4",
     "request": "^2.51.0",
+    "sync-request": "^1.0.2",
     "through2": "^0.6.3"
   }
 }
