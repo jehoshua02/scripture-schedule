@@ -3,6 +3,7 @@ var format = require('util').format;
 var scriptures = require('./scriptures');
 var config = require('./config');
 
+
 var schedule = scriptures.bom.makeSchedule({
   start: moment(config.start),
   end: moment(config.end)
@@ -17,3 +18,4 @@ var makeRow = function (segment) {
 };
 
 console.log(schedule.toArray().map(makeRow));
+console.log('verses per day: ' + schedule.getVersesPerDay());

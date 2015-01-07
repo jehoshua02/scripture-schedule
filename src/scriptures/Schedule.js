@@ -32,10 +32,14 @@ Schedule.prototype = {
 
   getEndReference: function (day) {
     var verse = this.getVersesPerDay() * day;
-    return this.props.scripture.getReference(verse);
+    var reference = this.props.scripture.getReference(verse);
+    if (reference === undefined) {
+      reference = this.props.scripture.getLastReference();
+    }
+    return reference;
   },
 
-  getRange: function (day) {
+  getReferenceRange: function (day) {
     return new ReferenceRange({
       start: this.getStartReference(day),
       end: this.getEndReference(day)
@@ -46,17 +50,13 @@ Schedule.prototype = {
     var schedule = [];
 
     var days = this.getDays();
-    for (var day = 1; day < days; day++) {
+    for (var day = 1; day <= days; day++) {
 
       var segment = {
         day: day,
         date: this.getDate(day),
-        range: this.getRange(day)
+        range: this.getReferenceRange(day)
       };
-
-      if (!segment.range.props.start) {
-        break;
-      }
 
       schedule.push(segment);
     }
