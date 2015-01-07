@@ -32,13 +32,14 @@ Scripture.prototype = {
       var book = this.props.books[bookIndex];
       var chapterLimit = book.props.chapters.length;
       for (var chapterIndex = 0; chapterIndex < chapterLimit; chapterIndex++) {
-        var chapter = chapterIndex + 1;
-        var verses = book.props.chapters[chapterIndex].verses;
+        var chapter = book.props.chapters[chapterIndex];
+        var verses = chapter.verses;
         if (verse <= verses) {
           return new Reference({
             book: book.props.name,
-            chapter: chapter,
-            verse: verse
+            chapter: chapter.name,
+            verse: verse,
+            url: chapter.url.replace('?', '.' + verse + '?') + '#' + (verse - 1)
           });
         } else {
           verse -= verses;
